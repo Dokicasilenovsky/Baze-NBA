@@ -30,7 +30,7 @@ CREATE TABLE Player_Team(
 	Player_ID INT references Player(ID),
 	Team_ID INT references Team(ID),
 	Season_ID INT references Season(ID),
-	Transfer_Date DATE,
+	Transfer_Year INT,
 	Jersey_Number INT
 
 );
@@ -102,7 +102,7 @@ CREATE TABLE Player_Match_Stats(
 
 );
 
-DROP TABLE player_stats
+DROP TABLE Player_stats
 
 SELECT * FROM Season
 
