@@ -52,12 +52,6 @@ CREATE TABLE matches (
 
 );
 
-CREATE TABLE player_game (
-    id SERIAL PRIMARY KEY,
-    player_id INT REFERENCES player(id),
-    match_id INT REFERENCES matches(id)
-);
-
 CREATE TABLE player_stats (
     id SERIAL PRIMARY KEY,
     player_id INT REFERENCES player(id),
