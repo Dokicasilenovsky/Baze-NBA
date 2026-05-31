@@ -1,4115 +1,1374 @@
 INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 28, 3, '2026-05-30', '103-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 18, 3, '2026-05-28', '118-91');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 28, 3, '2026-05-26', '127-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 3, 3, '2026-05-25', '93-130');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 18, 3, '2026-05-24', '103-82');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 3, 3, '2026-05-23', '108-121');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 18, 3, '2026-05-22', '108-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 7, 3, '2026-05-21', '109-93');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 28, 3, '2026-05-20', '122-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 7, 3, '2026-05-19', '115-104');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 28, 3, '2026-05-18', '115-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 7, 3, '2026-05-17', '94-125');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 28, 3, '2026-05-15', '109-139');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 8, 3, '2026-05-15', '94-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 7, 3, '2026-05-13', '113-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 17, 3, '2026-05-12', '126-97');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 8, 3, '2026-05-11', '112-103');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 18, 3, '2026-05-11', '110-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 28, 3, '2026-05-10', '114-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 3, 3, '2026-05-10', '114-144');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 8, 3, '2026-05-09', '116-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 18, 3, '2026-05-09', '108-131');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 28, 3, '2026-05-08', '108-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 3, 3, '2026-05-08', '94-108');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 22, 3, '2026-05-07', '125-107');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 7, 3, '2026-05-07', '107-97');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 17, 3, '2026-05-06', '133-95');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 4, 3, '2026-05-06', '108-102');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 7, 3, '2026-05-05', '111-101');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 22, 3, '2026-05-05', '108-90');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 4, 3, '2026-05-04', '137-98');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 17, 3, '2026-05-04', '102-104');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 14, 3, '2026-05-03', '116-94');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 5, 3, '2026-05-03', '114-102');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 4, 3, '2026-05-02', '100-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 7, 3, '2026-05-01', '112-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 8, 3, '2026-05-01', '79-93');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 22, 3, '2026-05-01', '78-98');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 16, 3, '2026-04-30', '110-98');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 3, 3, '2026-04-30', '89-140');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 1, 3, '2026-04-30', '106-93');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 5, 3, '2026-04-29', '125-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 27, 3, '2026-04-29', '93-99');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 14, 3, '2026-04-29', '116-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 11, 3, '2026-04-28', '126-97');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 19, 3, '2026-04-28', '114-95');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 4, 3, '2026-04-28', '97-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 8, 3, '2026-04-27', '94-88');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 17, 3, '2026-04-27', '125-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 18, 3, '2026-04-27', '122-131');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 1, 3, '2026-04-26', '96-128');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 22, 3, '2026-04-26', '115-96');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 28, 3, '2026-04-26', '93-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 7, 3, '2026-04-26', '93-89');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 18, 3, '2026-04-25', '109-121');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 3, 3, '2026-04-25', '98-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 16, 3, '2026-04-25', '112-96');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 8, 3, '2026-04-25', '113-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 1, 3, '2026-04-24', '100-108');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 22, 3, '2026-04-24', '108-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 28, 3, '2026-04-24', '108-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 3, 3, '2026-04-23', '109-108');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 16, 3, '2026-04-23', '113-96');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 7, 3, '2026-04-23', '126-104');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 24, 3, '2026-04-22', '120-107');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 14, 3, '2026-04-22', '98-83');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 19, 3, '2026-04-21', '103-106');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 27, 3, '2026-04-21', '101-94');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 4, 3, '2026-04-21', '97-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 5, 3, '2026-04-20', '115-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 17, 3, '2026-04-20', '114-119');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 11, 3, '2026-04-20', '106-107');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 19, 3, '2026-04-19', '111-98');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 24, 3, '2026-04-19', '119-84');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 4, 3, '2026-04-19', '123-91');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 14, 3, '2026-04-19', '101-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 5, 3, '2026-04-18', '126-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 11, 3, '2026-04-18', '113-102');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 17, 3, '2026-04-18', '116-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 27, 3, '2026-04-18', '107-98');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 21, 3, '2026-04-17', '111-96');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 12, 3, '2026-04-17', '121-90');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 14, 3, '2026-04-15', '109-97');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 21, 3, '2026-04-15', '121-126');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 13, 3, '2026-04-14', '127-126');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 19, 3, '2026-04-14', '110-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 6, 3, '2026-04-12', '149-128');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 16, 3, '2026-04-12', '118-128');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 11, 3, '2026-04-12', '143-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 8, 3, '2026-04-12', '121-133');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 21, 3, '2026-04-12', '115-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 10, 3, '2026-04-12', '126-106');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 14, 3, '2026-04-12', '113-108');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 15, 3, '2026-04-12', '130-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 20, 3, '2026-04-12', '131-107');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 29, 3, '2026-04-12', '132-101');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 2, 3, '2026-04-12', '136-101');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 12, 3, '2026-04-12', '96-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 30, 3, '2026-04-12', '132-126');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 25, 3, '2026-04-12', '122-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 24, 3, '2026-04-12', '103-135');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 2, 3, '2026-04-10', '125-108');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 24, 3, '2026-04-10', '101-73');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 17, 3, '2026-04-10', '132-136');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 23, 3, '2026-04-10', '116-97');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 8, 3, '2026-04-10', '100-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 29, 3, '2026-04-10', '147-101');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 5, 3, '2026-04-10', '112-95');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 7, 3, '2026-04-10', '124-102');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 14, 3, '2026-04-10', '103-127');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 30, 3, '2026-04-10', '144-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 21, 3, '2026-04-10', '124-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 13, 3, '2026-04-10', '117-140');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 4, 3, '2026-04-10', '94-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 18, 3, '2026-04-10', '127-107');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 26, 3, '2026-04-10', '139-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 6, 3, '2026-04-09', '108-119');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 13, 3, '2026-04-09', '128-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 9, 3, '2026-04-09', '94-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 4, 3, '2026-04-09', '113-102');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 22, 3, '2026-04-09', '103-119');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 1, 3, '2026-04-09', '112-106');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 18, 3, '2026-04-08', '110-128');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 11, 3, '2026-04-08', '122-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 10, 3, '2026-04-08', '137-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 26, 3, '2026-04-08', '112-107');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 19, 3, '2026-04-08', '112-101');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 17, 3, '2026-04-08', '132-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 29, 3, '2026-04-08', '136-119');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 18, 3, '2026-04-07', '87-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 26, 3, '2026-04-07', '116-103');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 17, 3, '2026-04-07', '104-124');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 6, 3, '2026-04-07', '98-129');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 13, 3, '2026-04-07', '121-95');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 12, 3, '2026-04-07', '113-102');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 27, 3, '2026-04-07', '105-119');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 10, 3, '2026-04-07', '96-90');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 25, 3, '2026-04-07', '110-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 20, 3, '2026-04-07', '156-137');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 3, 3, '2026-04-06', '105-108');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 4, 3, '2026-04-06', '115-102');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 7, 3, '2026-04-06', '126-142');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 19, 3, '2026-04-06', '137-132');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 8, 3, '2026-04-06', '123-107');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 14, 3, '2026-04-05', '108-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 27, 3, '2026-04-05', '116-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 9, 3, '2026-04-05', '117-108');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 15, 3, '2026-04-05', '121-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 5, 3, '2026-04-05', '115-101');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 22, 3, '2026-04-05', '134-128');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 20, 3, '2026-04-05', '146-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 23, 3, '2026-04-05', '109-138');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 29, 3, '2026-04-05', '131-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 12, 3, '2026-04-05', '108-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 24, 3, '2026-04-05', '110-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 15, 3, '2026-04-04', '152-136');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 28, 3, '2026-04-04', '136-134');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 8, 3, '2026-04-04', '93-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 11, 3, '2026-04-03', '107-141');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 5, 3, '2026-04-03', '96-128');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 20, 3, '2026-04-03', '140-106');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 9, 3, '2026-04-03', '129-108');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 1, 3, '2026-04-03', '101-133');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 30, 3, '2026-04-03', '117-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 17, 3, '2026-04-03', '115-103');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 6, 3, '2026-04-03', '136-96');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 14, 3, '2026-04-03', '127-138');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 28, 3, '2026-04-02', '99-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 17, 3, '2026-04-02', '113-108');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 7, 3, '2026-04-02', '111-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 22, 3, '2026-04-02', '139-96');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 30, 3, '2026-04-02', '118-106');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 24, 3, '2026-04-02', '127-107');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 25, 3, '2026-04-01', '115-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 4, 3, '2026-04-01', '131-153');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 1, 3, '2026-04-01', '129-147');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 3, 3, '2026-04-01', '119-130');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 10, 3, '2026-04-01', '119-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 28, 3, '2026-04-01', '113-127');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 16, 3, '2026-04-01', '117-130');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 9, 3, '2026-04-01', '126-145');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 11, 3, '2026-04-01', '101-130');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 26, 3, '2026-03-31', '123-99');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 12, 3, '2026-03-31', '86-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 3, 3, '2026-03-31', '111-94');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 7, 3, '2026-03-31', '127-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 5, 3, '2026-03-31', '127-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 24, 3, '2026-03-31', '115-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 19, 3, '2026-03-31', '104-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 7, 3, '2026-03-30', '113-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 4, 3, '2026-03-30', '119-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 6, 3, '2026-03-30', '129-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 1, 3, '2026-03-30', '112-102');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 8, 3, '2026-03-30', '114-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 17, 3, '2026-03-30', '94-124');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 24, 3, '2026-03-30', '105-131');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 15, 3, '2026-03-30', '120-101');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 25, 3, '2026-03-29', '116-99');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 1, 3, '2026-03-29', '99-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 21, 3, '2026-03-29', '116-93');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 27, 3, '2026-03-29', '102-134');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 13, 3, '2026-03-29', '135-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 3, 3, '2026-03-29', '111-100');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 23, 3, '2026-03-29', '113-127');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 15, 3, '2026-03-29', '123-88');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 14, 3, '2026-03-29', '139-87');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 6, 3, '2026-03-28', '125-124');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 20, 3, '2026-03-28', '134-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 8, 3, '2026-03-28', '87-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 4, 3, '2026-03-28', '114-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 25, 3, '2026-03-28', '123-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 28, 3, '2026-03-28', '95-127');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 13, 3, '2026-03-27', '149-128');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 30, 3, '2026-03-27', '119-106');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 11, 3, '2026-03-27', '109-102');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 2, 3, '2026-03-27', '116-99');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 20, 3, '2026-03-27', '135-129');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 26, 3, '2026-03-27', '93-100');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 6, 3, '2026-03-27', '131-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 27, 3, '2026-03-27', '109-119');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 15, 3, '2026-03-27', '131-126');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 23, 3, '2026-03-27', '113-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 3, 3, '2026-03-26', '114-103');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 30, 3, '2026-03-26', '129-108');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 25, 3, '2026-03-26', '121-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 6, 3, '2026-03-25', '157-137');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 10, 3, '2026-03-25', '130-99');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 28, 3, '2026-03-25', '98-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 13, 3, '2026-03-25', '103-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 5, 3, '2026-03-25', '119-94');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 26, 3, '2026-03-25', '142-135');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 27, 3, '2026-03-25', '110-108');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 18, 3, '2026-03-25', '119-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 22, 3, '2026-03-25', '130-137');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 2, 3, '2026-03-25', '109-106');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 11, 3, '2026-03-25', '129-130');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 15, 3, '2026-03-25', '110-133');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 25, 3, '2026-03-24', '134-90');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 14, 3, '2026-03-24', '136-131');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 30, 3, '2026-03-24', '121-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 16, 3, '2026-03-24', '123-125');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 9, 3, '2026-03-23', '126-128');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 2, 3, '2026-03-23', '134-99');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 10, 3, '2026-03-23', '129-96');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 27, 3, '2026-03-23', '132-124');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 28, 3, '2026-03-23', '111-136');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 5, 3, '2026-03-23', '127-143');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 29, 3, '2026-03-23', '146-107');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 22, 3, '2026-03-23', '113-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 21, 3, '2026-03-23', '131-137');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 18, 3, '2026-03-23', '103-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 2, 3, '2026-03-22', '126-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 17, 3, '2026-03-22', '92-102');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 19, 3, '2026-03-22', '128-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 15, 3, '2026-03-22', '145-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 5, 3, '2026-03-22', '120-98');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 23, 3, '2026-03-21', '131-138');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 9, 3, '2026-03-21', '134-119');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 22, 3, '2026-03-21', '104-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 4, 3, '2026-03-21', '116-126');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 29, 3, '2026-03-21', '124-101');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 18, 3, '2026-03-21', '111-132');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 10, 3, '2026-03-21', '105-108');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 13, 3, '2026-03-21', '123-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 21, 3, '2026-03-21', '126-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 7, 3, '2026-03-21', '106-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 3, 3, '2026-03-20', '92-93');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 5, 3, '2026-03-20', '121-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 1, 3, '2026-03-20', '112-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 19, 3, '2026-03-20', '104-108');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 21, 3, '2026-03-20', '115-101');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 11, 3, '2026-03-20', '117-95');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 10, 3, '2026-03-19', '128-96');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 14, 3, '2026-03-19', '130-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 8, 3, '2026-03-19', '95-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 23, 3, '2026-03-19', '105-99');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 24, 3, '2026-03-19', '101-100');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 4, 3, '2026-03-19', '118-139');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 22, 3, '2026-03-19', '126-134');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 7, 3, '2026-03-19', '110-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 5, 3, '2026-03-18', '109-139');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 18, 3, '2026-03-18', '92-121');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 23, 3, '2026-03-18', '124-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 19, 3, '2026-03-18', '119-127');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 16, 3, '2026-03-18', '125-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 21, 3, '2026-03-18', '120-99');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 11, 3, '2026-03-18', '120-135');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 20, 3, '2026-03-18', '147-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 22, 3, '2026-03-18', '116-124');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 18, 3, '2026-03-17', '108-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 24, 3, '2026-03-17', '116-104');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 13, 3, '2026-03-17', '136-106');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 7, 3, '2026-03-17', '116-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 9, 3, '2026-03-17', '136-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 8, 3, '2026-03-17', '117-130');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 28, 3, '2026-03-17', '104-132');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 4, 3, '2026-03-17', '124-96');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 28, 3, '2026-03-16', '115-119');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 29, 3, '2026-03-16', '132-107');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 21, 3, '2026-03-16', '117-125');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 19, 3, '2026-03-16', '95-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 26, 3, '2026-03-16', '129-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 14, 3, '2026-03-16', '124-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 24, 3, '2026-03-16', '120-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 22, 3, '2026-03-16', '92-100');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 8, 3, '2026-03-15', '119-108');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 9, 3, '2026-03-15', '134-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 26, 3, '2026-03-15', '120-130');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 19, 3, '2026-03-15', '109-103');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 17, 3, '2026-03-15', '116-103');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 20, 3, '2026-03-15', '116-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 21, 3, '2026-03-15', '110-107');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 16, 3, '2026-03-14', '127-125');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 10, 3, '2026-03-14', '122-99');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 14, 3, '2026-03-14', '117-121');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 12, 3, '2026-03-14', '115-102');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 25, 3, '2026-03-14', '109-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 2, 3, '2026-03-14', '104-97');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 15, 3, '2026-03-14', '111-100');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 7, 3, '2026-03-13', '105-138');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 6, 3, '2026-03-13', '119-108');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 30, 3, '2026-03-13', '107-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 17, 3, '2026-03-13', '117-127');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 20, 3, '2026-03-13', '124-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 24, 3, '2026-03-13', '122-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 3, 3, '2026-03-13', '92-101');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 29, 3, '2026-03-13', '126-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 4, 3, '2026-03-12', '131-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 1, 3, '2026-03-12', '104-102');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 6, 3, '2026-03-12', '142-130');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 24, 3, '2026-03-12', '108-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 10, 3, '2026-03-12', '112-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 15, 3, '2026-03-12', '136-131');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 2, 3, '2026-03-12', '108-97');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 26, 3, '2026-03-12', '112-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 16, 3, '2026-03-12', '131-136');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 5, 3, '2026-03-11', '122-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 12, 3, '2026-03-11', '109-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 3, 3, '2026-03-11', '117-134');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 17, 3, '2026-03-11', '153-128');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 7, 3, '2026-03-11', '128-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 27, 3, '2026-03-11', '129-93');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 17, 3, '2026-03-10', '120-106');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 26, 3, '2026-03-10', '124-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 15, 3, '2026-03-10', '150-129');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 9, 3, '2026-03-10', '114-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 1, 3, '2026-03-10', '125-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 29, 3, '2026-03-10', '139-129');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 5, 3, '2026-03-10', '113-99');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 24, 3, '2026-03-10', '114-129');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 6, 3, '2026-03-10', '124-130');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 12, 3, '2026-03-10', '101-103');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 8, 3, '2026-03-10', '100-138');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 16, 3, '2026-03-09', '129-126');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 4, 3, '2026-03-09', '115-101');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 3, 3, '2026-03-09', '126-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 21, 3, '2026-03-09', '119-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 29, 3, '2026-03-09', '126-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 9, 3, '2026-03-08', '131-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 15, 3, '2026-03-08', '138-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 26, 3, '2026-03-08', '122-92');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 27, 3, '2026-03-08', '145-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 3, 3, '2026-03-08', '110-97');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 8, 3, '2026-03-08', '121-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 1, 3, '2026-03-08', '98-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 12, 3, '2026-03-08', '111-99');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 14, 3, '2026-03-08', '91-130');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 6, 3, '2026-03-08', '126-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 20, 3, '2026-03-07', '113-99');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 21, 3, '2026-03-07', '104-97');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 4, 3, '2026-03-07', '125-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 14, 3, '2026-03-07', '92-119');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 23, 3, '2026-03-07', '120-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 2, 3, '2026-03-07', '105-107');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 26, 3, '2026-03-06', '120-100');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 3, 3, '2026-03-06', '103-142');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 23, 3, '2026-03-06', '116-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 13, 3, '2026-03-06', '120-128');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 9, 3, '2026-03-06', '128-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 30, 3, '2026-03-06', '118-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 19, 3, '2026-03-06', '106-99');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 26, 3, '2026-03-05', '115-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 30, 3, '2026-03-05', '123-133');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 20, 3, '2026-03-05', '112-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 5, 3, '2026-03-05', '115-107');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 8, 3, '2026-03-05', '121-106');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 21, 3, '2026-03-05', '113-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 22, 3, '2026-03-05', '120-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 2, 3, '2026-03-05', '126-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 6, 3, '2026-03-05', '103-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 11, 3, '2026-03-04', '113-131');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 18, 3, '2026-03-04', '100-103');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 12, 3, '2026-03-04', '89-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 9, 3, '2026-03-04', '130-107');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 19, 3, '2026-03-04', '114-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 20, 3, '2026-03-04', '106-102');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 18, 3, '2026-03-03', '108-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 26, 3, '2026-03-03', '117-90');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 2, 3, '2026-03-03', '124-98');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 15, 3, '2026-03-03', '126-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 28, 3, '2026-03-03', '91-131');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 29, 3, '2026-03-03', '117-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 24, 3, '2026-03-03', '103-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 8, 3, '2026-03-03', '113-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 30, 3, '2026-03-03', '110-101');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 3, 3, '2026-03-03', '95-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 1, 3, '2026-03-02', '81-108');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 27, 3, '2026-03-02', '118-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 23, 3, '2026-03-02', '101-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 16, 3, '2026-03-02', '125-128');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 17, 3, '2026-03-01', '108-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 28, 3, '2026-03-01', '114-89');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 18, 3, '2026-03-01', '87-100');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 10, 3, '2026-03-01', '120-97');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 29, 3, '2026-03-01', '106-125');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 7, 3, '2026-03-01', '102-106');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 25, 3, '2026-03-01', '128-104');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 30, 3, '2026-03-01', '137-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 19, 3, '2026-03-01', '135-101');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 8, 3, '2026-03-01', '92-106');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 4, 3, '2026-03-01', '114-98');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 22, 3, '2026-02-28', '101-129');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 27, 3, '2026-02-28', '115-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 19, 3, '2026-02-28', '109-93');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 5, 3, '2026-02-28', '125-134');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 30, 3, '2026-02-28', '105-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 3, 3, '2026-02-27', '98-127');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 16, 3, '2026-02-27', '127-121');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 7, 3, '2026-02-27', '122-119');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 2, 3, '2026-02-27', '148-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 29, 3, '2026-02-27', '105-124');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 12, 3, '2026-02-26', '109-133');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 13, 3, '2026-02-26', '124-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 27, 3, '2026-02-26', '108-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 25, 3, '2026-02-26', '121-130');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 28, 3, '2026-02-26', '110-126');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 22, 3, '2026-02-26', '113-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 30, 3, '2026-02-26', '118-129');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 19, 3, '2026-02-26', '112-121');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 15, 3, '2026-02-26', '126-96');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 17, 3, '2026-02-26', '88-94');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 18, 3, '2026-02-25', '124-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 25, 3, '2026-02-25', '128-97');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 21, 3, '2026-02-25', '112-133');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 28, 3, '2026-02-25', '107-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 7, 3, '2026-02-25', '118-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 1, 3, '2026-02-25', '103-84');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 3, 3, '2026-02-24', '109-94');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 4, 3, '2026-02-24', '114-135');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 17, 3, '2026-02-24', '121-124');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 21, 3, '2026-02-24', '113-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 26, 3, '2026-02-24', '114-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 13, 3, '2026-02-24', '128-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 12, 3, '2026-02-24', '99-131');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 15, 3, '2026-02-24', '119-98');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 14, 3, '2026-02-24', '109-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 1, 3, '2026-02-24', '81-97');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 18, 3, '2026-02-24', '107-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 25, 3, '2026-02-23', '114-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 20, 3, '2026-02-23', '125-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 28, 3, '2026-02-23', '103-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 7, 3, '2026-02-22', '121-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 3, 3, '2026-02-22', '99-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 12, 3, '2026-02-22', '112-129');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 1, 3, '2026-02-22', '89-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 4, 3, '2026-02-22', '108-135');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 19, 3, '2026-02-22', '77-92');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 2, 3, '2026-02-22', '115-104');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 14, 3, '2026-02-22', '109-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 16, 3, '2026-02-22', '128-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 5, 3, '2026-02-22', '94-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 26, 3, '2026-02-22', '130-134');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 8, 3, '2026-02-21', '110-126');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 14, 3, '2026-02-21', '113-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 29, 3, '2026-02-21', '136-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 25, 3, '2026-02-21', '139-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 27, 3, '2026-02-21', '108-106');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 4, 3, '2026-02-21', '126-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 10, 3, '2026-02-20', '118-139');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 23, 3, '2026-02-20', '125-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 9, 3, '2026-02-20', '131-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 26, 3, '2026-02-20', '122-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 16, 3, '2026-02-20', '103-157');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 13, 3, '2026-02-20', '97-128');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 20, 3, '2026-02-20', '123-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 7, 3, '2026-02-20', '113-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 2, 3, '2026-02-20', '105-86');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 9, 3, '2026-02-19', '112-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 1, 3, '2026-02-19', '110-121');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 14, 3, '2026-02-19', '94-131');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 24, 3, '2026-02-19', '121-94');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 27, 3, '2026-02-19', '101-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 16, 3, '2026-02-19', '115-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 11, 3, '2026-02-19', '107-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 2, 3, '2026-02-19', '112-84');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 8, 3, '2026-02-19', '111-126');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 5, 3, '2026-02-19', '101-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 10, 3, '2026-02-12', '93-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 19, 3, '2026-02-12', '119-135');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 26, 3, '2026-02-12', '124-104');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 19, 3, '2026-02-11', '133-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 18, 3, '2026-02-11', '109-136');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 10, 3, '2026-02-11', '108-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 6, 3, '2026-02-11', '124-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 3, 3, '2026-02-11', '89-138');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 9, 3, '2026-02-11', '110-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 29, 3, '2026-02-11', '122-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 13, 3, '2026-02-11', '111-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 11, 3, '2026-02-11', '110-107');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 25, 3, '2026-02-11', '121-93');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 28, 3, '2026-02-11', '113-126');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 15, 3, '2026-02-11', '138-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 23, 3, '2026-02-11', '102-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 8, 3, '2026-02-11', '95-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 9, 3, '2026-02-10', '134-137');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 26, 3, '2026-02-10', '120-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 23, 3, '2026-02-10', '102-95');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 28, 3, '2026-02-10', '108-136');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 10, 3, '2026-02-09', '118-99');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 11, 3, '2026-02-09', '138-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 25, 3, '2026-02-09', '120-94');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 29, 3, '2026-02-09', '114-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 4, 3, '2026-02-09', '135-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 20, 3, '2026-02-09', '111-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 18, 3, '2026-02-09', '110-119');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 6, 3, '2026-02-09', '123-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 8, 3, '2026-02-09', '104-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 7, 3, '2026-02-09', '117-119');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 3, 3, '2026-02-08', '89-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 9, 3, '2026-02-08', '122-104');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 23, 3, '2026-02-08', '96-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 13, 3, '2026-02-08', '101-132');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 29, 3, '2026-02-07', '122-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 4, 3, '2026-02-07', '103-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 27, 3, '2026-02-07', '106-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 12, 3, '2026-02-07', '119-126');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 20, 3, '2026-02-07', '120-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 7, 3, '2026-02-07', '126-132');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 21, 3, '2026-02-07', '105-99');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 16, 3, '2026-02-07', '120-136');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 26, 3, '2026-02-07', '138-125');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 15, 3, '2026-02-07', '127-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 3, 3, '2026-02-06', '118-80');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 30, 3, '2026-02-06', '115-119');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 9, 3, '2026-02-06', '105-99');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 29, 3, '2026-02-06', '135-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 13, 3, '2026-02-06', '98-96');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 23, 3, '2026-02-06', '111-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 15, 3, '2026-02-05', '117-126');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 12, 3, '2026-02-05', '99-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 20, 3, '2026-02-05', '121-119');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 2, 3, '2026-02-05', '118-98');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 21, 3, '2026-02-05', '97-101');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 6, 3, '2026-02-05', '123-107');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 4, 3, '2026-02-05', '119-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 28, 3, '2026-02-05', '123-135');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 29, 3, '2026-02-04', '125-129');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 17, 3, '2026-02-04', '126-128');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 16, 3, '2026-02-04', '134-127');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 1, 3, '2026-02-04', '93-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 30, 3, '2026-02-04', '141-137');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 18, 3, '2026-02-04', '116-106');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 7, 3, '2026-02-04', '91-124');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 16, 3, '2026-02-03', '124-121');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 3, 3, '2026-02-03', '101-132');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 4, 3, '2026-02-03', '94-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 11, 3, '2026-02-03', '115-127');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 22, 3, '2026-02-03', '109-125');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 1, 3, '2026-02-03', '100-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 14, 3, '2026-02-03', '128-92');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 6, 3, '2026-02-03', '131-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 20, 3, '2026-02-03', '122-131');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 24, 3, '2026-02-03', '125-130');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 17, 3, '2026-02-02', '137-128');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 27, 3, '2026-02-02', '114-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 30, 3, '2026-02-02', '102-95');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 4, 3, '2026-02-02', '113-128');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 18, 3, '2026-02-01', '111-121');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 25, 3, '2026-02-01', '116-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 20, 3, '2026-02-01', '107-100');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 2, 3, '2026-02-01', '130-77');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 23, 3, '2026-02-01', '93-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 22, 3, '2026-02-01', '112-100');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 6, 3, '2026-02-01', '134-91');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 10, 3, '2026-02-01', '107-79');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 14, 3, '2026-02-01', '112-103');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 7, 3, '2026-02-01', '111-130');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 11, 3, '2026-01-31', '129-124');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 17, 3, '2026-01-31', '114-131');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 28, 3, '2026-01-31', '111-106');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 6, 3, '2026-01-31', '118-125');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 30, 3, '2026-01-31', '124-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 26, 3, '2026-01-31', '111-107');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 19, 3, '2026-01-30', '127-97');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 2, 3, '2026-01-30', '99-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 25, 3, '2026-01-30', '112-93');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 7, 3, '2026-01-30', '126-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 29, 3, '2026-01-30', '114-106');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 22, 3, '2026-01-30', '111-142');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 5, 3, '2026-01-30', '130-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 8, 3, '2026-01-30', '124-131');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 23, 3, '2026-01-30', '122-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 27, 3, '2026-01-29', '86-104');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 13, 3, '2026-01-29', '113-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 18, 3, '2026-01-29', '123-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 25, 3, '2026-01-29', '113-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 2, 3, '2026-01-29', '107-103');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 10, 3, '2026-01-29', '109-99');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 8, 3, '2026-01-29', '114-96');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 12, 3, '2026-01-29', '121-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 21, 3, '2026-01-28', '124-140');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 3, 3, '2026-01-28', '92-119');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 28, 3, '2026-01-28', '99-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 12, 3, '2026-01-28', '97-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 17, 3, '2026-01-28', '105-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 11, 3, '2026-01-28', '106-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 22, 3, '2026-01-28', '129-99');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 6, 3, '2026-01-28', '113-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 14, 3, '2026-01-28', '124-133');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 23, 3, '2026-01-27', '103-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 8, 3, '2026-01-27', '107-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 30, 3, '2026-01-27', '104-95');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 25, 3, '2026-01-27', '103-87');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 19, 3, '2026-01-27', '115-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 10, 3, '2026-01-27', '139-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 2, 3, '2026-01-27', '106-102');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 22, 3, '2026-01-26', '118-129');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 29, 3, '2026-01-26', '108-99');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 4, 3, '2026-01-26', '130-93');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 19, 3, '2026-01-26', '102-94');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 14, 3, '2026-01-26', '114-98');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 9, 3, '2026-01-26', '132-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 21, 3, '2026-01-26', '108-83');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 21, 3, '2026-01-25', '85-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 25, 3, '2026-01-25', '139-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 13, 3, '2026-01-25', '102-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 30, 3, '2026-01-25', '95-104');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 2, 3, '2026-01-25', '126-89');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 5, 3, '2026-01-25', '101-103');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 3, 3, '2026-01-24', '109-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 15, 3, '2026-01-24', '119-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 7, 3, '2026-01-24', '105-119');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 1, 3, '2026-01-24', '114-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 22, 3, '2026-01-24', '110-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 13, 3, '2026-01-24', '116-147');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 24, 3, '2026-01-23', '110-103');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 5, 3, '2026-01-23', '98-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 25, 3, '2026-01-23', '123-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 30, 3, '2026-01-23', '127-133');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 9, 3, '2026-01-23', '114-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 27, 3, '2026-01-23', '104-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 16, 3, '2026-01-23', '100-102');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 1, 3, '2026-01-23', '126-130');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 22, 3, '2026-01-22', '112-104');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 12, 3, '2026-01-22', '97-124');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 27, 3, '2026-01-22', '128-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 16, 3, '2026-01-22', '97-107');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 13, 3, '2026-01-22', '127-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 28, 3, '2026-01-22', '109-126');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 21, 3, '2026-01-22', '123-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 6, 3, '2026-01-22', '115-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 7, 3, '2026-01-21', '87-94');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 11, 3, '2026-01-21', '122-124');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 2, 3, '2026-01-21', '120-66');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 18, 3, '2026-01-21', '102-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 8, 3, '2026-01-21', '104-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 9, 3, '2026-01-21', '119-104');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 5, 3, '2026-01-21', '109-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 5, 3, '2026-01-20', '127-145');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 22, 3, '2026-01-20', '107-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 24, 3, '2026-01-20', '110-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 28, 3, '2026-01-20', '111-106');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 17, 3, '2026-01-20', '127-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 13, 3, '2026-01-20', '117-130');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 23, 3, '2026-01-20', '138-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 26, 3, '2026-01-19', '97-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 18, 3, '2026-01-19', '104-136');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 1, 3, '2026-01-19', '104-103');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 20, 3, '2026-01-19', '123-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 10, 3, '2026-01-19', '110-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 24, 3, '2026-01-19', '117-126');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 9, 3, '2026-01-19', '113-104');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 13, 3, '2026-01-19', '135-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 23, 3, '2026-01-19', '106-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 30, 3, '2026-01-18', '119-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 12, 3, '2026-01-18', '87-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 2, 3, '2026-01-18', '124-102');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 19, 3, '2026-01-18', '110-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 5, 3, '2026-01-18', '110-93');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 22, 3, '2026-01-17', '132-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 18, 3, '2026-01-17', '122-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 20, 3, '2026-01-17', '138-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 12, 3, '2026-01-17', '136-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 1, 3, '2026-01-17', '106-132');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 24, 3, '2026-01-17', '99-106');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 9, 3, '2026-01-17', '121-78');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 15, 3, '2026-01-17', '121-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 17, 3, '2026-01-17', '126-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 23, 3, '2026-01-16', '117-121');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 7, 3, '2026-01-16', '115-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 30, 3, '2026-01-16', '127-119');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 6, 3, '2026-01-16', '112-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 15, 3, '2026-01-16', '128-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 17, 3, '2026-01-16', '110-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 11, 3, '2026-01-15', '117-101');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 12, 3, '2026-01-15', '117-135');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 18, 3, '2026-01-15', '91-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 1, 3, '2026-01-15', '114-119');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 3, 3, '2026-01-15', '126-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 20, 3, '2026-01-15', '144-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 10, 3, '2026-01-15', '119-101');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 24, 3, '2026-01-15', '108-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 3, 3, '2026-01-14', '112-101');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 15, 3, '2026-01-14', '119-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 2, 3, '2026-01-14', '116-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 20, 3, '2026-01-14', '128-126');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 7, 3, '2026-01-14', '107-133');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 16, 3, '2026-01-14', '109-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 5, 3, '2026-01-14', '101-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 6, 3, '2026-01-13', '119-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 17, 3, '2026-01-13', '106-139');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 16, 3, '2026-01-13', '116-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 11, 3, '2026-01-13', '141-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 19, 3, '2026-01-13', '119-97');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 28, 3, '2026-01-13', '119-98');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 24, 3, '2026-01-13', '127-121');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 1, 3, '2026-01-12', '98-96');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 12, 3, '2026-01-12', '117-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 4, 3, '2026-01-12', '102-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 22, 3, '2026-01-12', '124-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 20, 3, '2026-01-12', '112-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 2, 3, '2026-01-12', '113-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 27, 3, '2026-01-11', '111-98');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 11, 3, '2026-01-11', '111-124');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 3, 3, '2026-01-11', '114-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 4, 3, '2026-01-11', '116-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 2, 3, '2026-01-11', '103-98');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 15, 3, '2026-01-11', '112-93');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 13, 3, '2026-01-11', '124-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 30, 3, '2026-01-11', '128-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 28, 3, '2026-01-11', '104-103');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 10, 3, '2026-01-11', '108-104');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 17, 3, '2026-01-10', '146-134');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 12, 3, '2026-01-10', '95-150');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 23, 3, '2026-01-10', '92-98');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 26, 3, '2026-01-10', '125-107');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 13, 3, '2026-01-10', '123-99');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 28, 3, '2026-01-10', '95-100');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 10, 3, '2026-01-09', '101-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 4, 3, '2026-01-09', '91-103');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 3, 3, '2026-01-09', '112-107');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 5, 3, '2026-01-09', '125-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 30, 3, '2026-01-09', '107-128');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 27, 3, '2026-01-09', '111-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 11, 3, '2026-01-09', '87-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 23, 3, '2026-01-09', '105-121');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 25, 3, '2026-01-09', '137-103');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 18, 3, '2026-01-09', '116-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 26, 3, '2026-01-08', '116-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 7, 3, '2026-01-08', '131-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 9, 3, '2026-01-08', '112-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 22, 3, '2026-01-07', '107-91');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 15, 3, '2026-01-07', '131-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 14, 3, '2026-01-07', '103-104');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 20, 3, '2026-01-07', '129-125');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 23, 3, '2026-01-07', '123-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 6, 3, '2026-01-07', '108-93');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 27, 3, '2026-01-07', '103-102');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 24, 3, '2026-01-07', '98-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 5, 3, '2026-01-07', '96-97');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 30, 3, '2026-01-07', '117-100');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 10, 3, '2026-01-07', '120-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 16, 3, '2026-01-07', '110-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 28, 3, '2026-01-06', '106-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 14, 3, '2026-01-06', '120-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 7, 3, '2026-01-06', '116-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 22, 3, '2026-01-06', '103-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 26, 3, '2026-01-06', '98-100');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 13, 3, '2026-01-06', '122-94');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 20, 3, '2026-01-05', '137-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 12, 3, '2026-01-05', '97-124');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 6, 3, '2026-01-05', '115-101');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 11, 3, '2026-01-05', '118-100');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 16, 3, '2026-01-05', '124-125');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 21, 3, '2026-01-05', '103-102');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 24, 3, '2026-01-05', '100-97');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 3, 3, '2026-01-05', '121-90');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 17, 3, '2026-01-04', '115-141');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 18, 3, '2026-01-04', '108-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 10, 3, '2026-01-04', '98-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 8, 3, '2026-01-04', '110-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 9, 3, '2026-01-04', '135-127');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 16, 3, '2026-01-04', '127-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 29, 3, '2026-01-04', '120-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 30, 3, '2026-01-04', '125-106');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 20, 3, '2026-01-03', '123-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 19, 3, '2026-01-03', '110-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 4, 3, '2026-01-03', '119-130');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 17, 3, '2026-01-03', '115-125');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 12, 3, '2026-01-03', '99-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 1, 3, '2026-01-03', '115-146');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 11, 3, '2026-01-03', '134-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 27, 3, '2026-01-03', '110-104');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 2, 3, '2026-01-02', '119-99');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 12, 3, '2026-01-02', '122-121');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 18, 3, '2026-01-02', '94-131');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 11, 3, '2026-01-02', '99-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 19, 3, '2026-01-02', '109-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 28, 3, '2026-01-02', '113-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 25, 3, '2026-01-02', '129-102');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 14, 3, '2026-01-02', '121-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 29, 3, '2026-01-02', '128-121');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 16, 3, '2026-01-02', '113-108');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 4, 3, '2026-01-01', '108-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 1, 3, '2026-01-01', '106-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 20, 3, '2026-01-01', '118-101');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 27, 3, '2026-01-01', '96-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 13, 3, '2026-01-01', '112-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 19, 3, '2025-12-31', '124-95');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 30, 3, '2025-12-31', '134-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 17, 3, '2025-12-31', '126-102');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 3, 3, '2025-12-31', '134-132');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 14, 3, '2025-12-31', '110-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 15, 3, '2025-12-31', '113-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 24, 3, '2025-12-31', '129-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 16, 3, '2025-12-31', '103-106');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 21, 3, '2025-12-31', '125-132');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 4, 3, '2025-12-30', '136-139');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 8, 3, '2025-12-30', '106-128');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 25, 3, '2025-12-30', '131-90');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 1, 3, '2025-12-30', '119-129');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 3, 3, '2025-12-29', '125-130');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 16, 3, '2025-12-29', '147-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 14, 3, '2025-12-29', '107-106');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 11, 3, '2025-12-29', '140-129');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 7, 3, '2025-12-29', '101-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 21, 3, '2025-12-29', '107-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 10, 3, '2025-12-29', '113-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 26, 3, '2025-12-29', '125-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 17, 3, '2025-12-29', '101-136');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 24, 3, '2025-12-29', '101-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 9, 3, '2025-12-29', '126-119');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 25, 3, '2025-12-28', '125-101');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 8, 3, '2025-12-28', '112-99');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 4, 3, '2025-12-28', '129-104');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 21, 3, '2025-12-28', '141-127');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 1, 3, '2025-12-28', '114-108');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 29, 3, '2025-12-28', '116-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 26, 3, '2025-12-27', '113-107');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 20, 3, '2025-12-27', '114-127');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 9, 3, '2025-12-27', '142-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 3, 3, '2025-12-27', '125-128');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 2, 3, '2025-12-27', '107-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 7, 3, '2025-12-27', '117-100');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 16, 3, '2025-12-27', '127-126');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 10, 3, '2025-12-27', '103-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 24, 3, '2025-12-27', '114-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 12, 3, '2025-12-26', '105-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 13, 3, '2025-12-26', '111-126');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 1, 3, '2025-12-26', '122-140');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 23, 3, '2025-12-26', '103-119');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 4, 3, '2025-12-26', '109-102');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 8, 3, '2025-12-26', '131-129');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 10, 3, '2025-12-26', '125-104');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 5, 3, '2025-12-26', '138-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 24, 3, '2025-12-26', '108-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 27, 3, '2025-12-25', '96-119');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 26, 3, '2025-12-25', '126-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 28, 3, '2025-12-25', '102-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 17, 3, '2025-12-25', '142-138');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 7, 3, '2025-12-25', '126-124');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 22, 3, '2025-12-23', '132-108');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 14, 3, '2025-12-23', '106-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 5, 3, '2025-12-23', '91-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 2, 3, '2025-12-23', '106-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 6, 3, '2025-12-23', '123-126');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 3, 3, '2025-12-23', '115-104');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 10, 3, '2025-12-23', '94-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 27, 3, '2025-12-23', '128-108');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 30, 3, '2025-12-23', '141-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 18, 3, '2025-12-23', '130-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 16, 3, '2025-12-23', '131-130');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 8, 3, '2025-12-23', '127-136');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 15, 3, '2025-12-23', '126-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 29, 3, '2025-12-23', '128-137');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 29, 3, '2025-12-22', '119-103');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 9, 3, '2025-12-22', '103-95');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 26, 3, '2025-12-22', '119-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 8, 3, '2025-12-22', '102-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 12, 3, '2025-12-22', '139-132');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 20, 3, '2025-12-22', '135-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 14, 3, '2025-12-22', '120-97');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 5, 3, '2025-12-21', '96-81');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 28, 3, '2025-12-21', '113-124');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 6, 3, '2025-12-21', '150-152');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 10, 3, '2025-12-21', '103-100');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 27, 3, '2025-12-21', '125-124');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 13, 3, '2025-12-21', '132-125');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 15, 3, '2025-12-20', '122-130');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 14, 3, '2025-12-20', '127-128');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 19, 3, '2025-12-20', '93-98');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 24, 3, '2025-12-20', '119-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 1, 3, '2025-12-20', '96-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 22, 3, '2025-12-20', '103-88');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 12, 3, '2025-12-20', '112-86');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 26, 3, '2025-12-20', '121-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 27, 3, '2025-12-20', '101-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 9, 3, '2025-12-20', '128-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 18, 3, '2025-12-19', '112-107');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 6, 3, '2025-12-19', '125-136');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 13, 3, '2025-12-19', '129-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 4, 3, '2025-12-19', '107-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 28, 3, '2025-12-19', '98-126');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 3, 3, '2025-12-18', '113-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 11, 3, '2025-12-18', '133-126');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 5, 3, '2025-12-18', '105-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 27, 3, '2025-12-18', '133-128');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 22, 3, '2025-12-18', '135-143');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 13, 3, '2025-12-18', '95-106');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 23, 3, '2025-12-18', '122-101');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 25, 3, '2025-12-18', '134-133');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 15, 3, '2025-12-18', '119-94');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 21, 3, '2025-12-18', '99-98');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 14, 3, '2025-12-18', '126-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 8, 3, '2025-12-18', '116-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 29, 3, '2025-12-17', '110-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 7, 3, '2025-12-17', '127-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 27, 3, '2025-12-15', '128-125');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 29, 3, '2025-12-15', '103-121');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 5, 3, '2025-12-15', '96-106');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 26, 3, '2025-12-15', '140-133');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 8, 3, '2025-12-15', '105-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 10, 3, '2025-12-14', '127-82');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 15, 3, '2025-12-14', '89-108');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 22, 3, '2025-12-14', '114-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 21, 3, '2025-12-14', '136-131');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 4, 3, '2025-12-14', '120-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 12, 3, '2025-12-14', '111-119');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 30, 3, '2025-12-14', '104-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 25, 3, '2025-12-14', '117-103');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 17, 3, '2025-12-12', '120-127');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 6, 3, '2025-12-12', '126-129');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 2, 3, '2025-12-12', '119-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 9, 3, '2025-12-12', '115-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 7, 3, '2025-12-12', '126-130');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 11, 3, '2025-12-12', '142-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 20, 3, '2025-12-12', '126-130');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 16, 3, '2025-12-11', '105-136');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 23, 3, '2025-12-11', '115-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 19, 3, '2025-12-11', '143-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 1, 3, '2025-12-11', '116-101');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 28, 3, '2025-12-10', '119-132');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 24, 3, '2025-12-10', '138-89');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 13, 3, '2025-12-09', '117-108');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 3, 3, '2025-12-09', '101-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 25, 3, '2025-12-08', '116-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 24, 3, '2025-12-08', '105-108');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 28, 3, '2025-12-08', '132-135');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 1, 3, '2025-12-07', '113-121');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 21, 3, '2025-12-07', '91-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 18, 3, '2025-12-07', '101-131');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 16, 3, '2025-12-07', '106-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 22, 3, '2025-12-07', '108-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 19, 3, '2025-12-07', '119-96');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 14, 3, '2025-12-07', '106-100');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 11, 3, '2025-12-06', '116-131');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 25, 3, '2025-12-06', '111-127');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 21, 3, '2025-12-06', '94-99');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 23, 3, '2025-12-06', '109-106');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 30, 3, '2025-12-06', '119-101');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 27, 3, '2025-12-06', '122-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 10, 3, '2025-12-06', '124-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 4, 3, '2025-12-05', '101-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 24, 3, '2025-12-05', '117-98');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 16, 3, '2025-12-05', '133-134');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 9, 3, '2025-12-05', '105-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 13, 3, '2025-12-05', '106-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 20, 3, '2025-12-05', '146-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 23, 3, '2025-12-05', '107-98');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 26, 3, '2025-12-05', '132-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 22, 3, '2025-12-05', '126-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 28, 3, '2025-12-05', '130-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 12, 3, '2025-12-05', '86-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 19, 3, '2025-12-05', '122-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 1, 3, '2025-12-04', '101-146');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 22, 3, '2025-12-04', '120-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 20, 3, '2025-12-04', '110-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 21, 3, '2025-12-04', '99-98');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 17, 3, '2025-12-04', '116-125');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 23, 3, '2025-12-03', '92-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 16, 3, '2025-12-03', '120-135');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 19, 3, '2025-12-03', '110-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 8, 3, '2025-12-03', '113-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 2, 3, '2025-12-03', '103-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 28, 3, '2025-12-03', '112-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 12, 3, '2025-12-03', '119-104');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 25, 3, '2025-12-03', '121-95');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 13, 3, '2025-12-03', '118-108');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 15, 3, '2025-12-02', '121-102');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 29, 3, '2025-12-02', '126-119');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 18, 3, '2025-12-02', '112-124');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 3, 3, '2025-12-02', '123-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 17, 3, '2025-12-02', '142-149');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 19, 3, '2025-12-02', '121-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 24, 3, '2025-12-01', '108-125');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 27, 3, '2025-12-01', '133-125');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 26, 3, '2025-12-01', '121-131');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 23, 3, '2025-12-01', '140-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 7, 3, '2025-12-01', '119-135');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 6, 3, '2025-12-01', '125-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 12, 3, '2025-12-01', '116-103');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 10, 3, '2025-12-01', '129-126');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 11, 3, '2025-12-01', '99-98');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 11, 3, '2025-11-30', '134-142');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 29, 3, '2025-11-30', '107-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 18, 3, '2025-11-30', '115-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 28, 3, '2025-11-30', '125-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 5, 3, '2025-11-30', '116-94');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 30, 3, '2025-11-30', '133-121');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 27, 3, '2025-11-30', '101-129');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 1, 3, '2025-11-30', '115-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 8, 3, '2025-11-29', '135-138');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 26, 3, '2025-11-29', '110-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 30, 3, '2025-11-29', '104-96');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 16, 3, '2025-11-29', '112-130');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 2, 3, '2025-11-29', '116-99');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 5, 3, '2025-11-29', '118-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 6, 3, '2025-11-29', '103-101');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 1, 3, '2025-11-29', '119-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 25, 3, '2025-11-28', '128-119');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 24, 3, '2025-11-28', '123-119');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 6, 3, '2025-11-28', '123-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 10, 3, '2025-11-28', '118-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 15, 3, '2025-11-28', '119-86');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 7, 3, '2025-11-28', '130-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 29, 3, '2025-11-28', '107-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 28, 3, '2025-11-28', '136-139');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 26, 3, '2025-11-28', '129-119');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 14, 3, '2025-11-28', '109-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 4, 3, '2025-11-28', '103-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 8, 3, '2025-11-26', '117-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 29, 3, '2025-11-26', '128-133');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 24, 3, '2025-11-26', '100-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 9, 3, '2025-11-26', '97-95');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 3, 3, '2025-11-26', '101-129');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 10, 3, '2025-11-26', '106-103');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 27, 3, '2025-11-26', '100-104');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 28, 3, '2025-11-26', '102-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 17, 3, '2025-11-26', '113-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 14, 3, '2025-11-25', '103-144');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 23, 3, '2025-11-25', '135-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 11, 3, '2025-11-25', '132-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 7, 3, '2025-11-24', '110-99');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 6, 3, '2025-11-24', '143-130');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 20, 3, '2025-11-24', '134-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 3, 3, '2025-11-24', '100-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 19, 3, '2025-11-24', '103-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 26, 3, '2025-11-24', '106-102');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 27, 3, '2025-11-24', '92-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 16, 3, '2025-11-24', '115-125');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 8, 3, '2025-11-24', '117-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 17, 3, '2025-11-24', '117-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 28, 3, '2025-11-23', '111-102');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 22, 3, '2025-11-23', '106-108');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 12, 3, '2025-11-23', '113-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 14, 3, '2025-11-23', '138-129');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 13, 3, '2025-11-23', '117-127');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 2, 3, '2025-11-23', '119-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 19, 3, '2025-11-23', '122-95');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 23, 3, '2025-11-23', '120-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 15, 3, '2025-11-22', '121-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 11, 3, '2025-11-22', '98-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 29, 3, '2025-11-22', '96-102');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 8, 3, '2025-11-22', '116-129');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 23, 3, '2025-11-22', '116-131');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 3, 3, '2025-11-22', '133-121');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 25, 3, '2025-11-22', '123-128');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 19, 3, '2025-11-21', '123-127');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 2, 3, '2025-11-21', '105-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 30, 3, '2025-11-21', '118-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 9, 3, '2025-11-21', '120-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 13, 3, '2025-11-21', '107-143');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 15, 3, '2025-11-21', '140-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 18, 3, '2025-11-21', '112-144');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 17, 3, '2025-11-21', '114-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 16, 3, '2025-11-21', '109-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 4, 3, '2025-11-20', '114-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 23, 3, '2025-11-20', '129-101');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 11, 3, '2025-11-20', '135-126');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 25, 3, '2025-11-20', '137-96');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 12, 3, '2025-11-19', '127-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 15, 3, '2025-11-19', '120-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 25, 3, '2025-11-19', '113-99');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 16, 3, '2025-11-19', '118-125');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 21, 3, '2025-11-19', '110-96');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 27, 3, '2025-11-19', '104-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 3, 3, '2025-11-19', '111-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 5, 3, '2025-11-19', '112-121');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 6, 3, '2025-11-19', '121-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 21, 3, '2025-11-18', '121-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 29, 3, '2025-11-18', '111-101');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 20, 3, '2025-11-18', '140-126');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 1, 3, '2025-11-18', '99-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 8, 3, '2025-11-18', '112-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 24, 3, '2025-11-18', '110-127');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 12, 3, '2025-11-17', '110-108');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 18, 3, '2025-11-17', '109-126');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 26, 3, '2025-11-17', '120-96');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 3, 3, '2025-11-17', '115-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 10, 3, '2025-11-17', '118-106');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 6, 3, '2025-11-17', '127-130');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 9, 3, '2025-11-17', '127-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 23, 3, '2025-11-17', '110-108');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 6, 3, '2025-11-16', '150-147');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 19, 3, '2025-11-16', '138-133');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 21, 3, '2025-11-16', '106-124');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 2, 3, '2025-11-16', '106-129');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 25, 3, '2025-11-16', '123-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 23, 3, '2025-11-16', '121-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 11, 3, '2025-11-16', '122-124');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 14, 3, '2025-11-16', '117-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 16, 3, '2025-11-15', '112-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 18, 3, '2025-11-15', '96-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 29, 3, '2025-11-15', '108-100');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 22, 3, '2025-11-15', '95-119');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 5, 3, '2025-11-15', '111-129');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 23, 3, '2025-11-14', '127-133');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 25, 3, '2025-11-14', '124-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 12, 3, '2025-11-14', '147-134');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 22, 3, '2025-11-14', '104-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 2, 3, '2025-11-14', '105-98');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 13, 3, '2025-11-14', '140-132');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 19, 3, '2025-11-14', '140-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 21, 3, '2025-11-14', '108-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 4, 3, '2025-11-14', '114-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 5, 3, '2025-11-13', '113-126');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 9, 3, '2025-11-13', '133-98');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 11, 3, '2025-11-13', '122-132');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 14, 3, '2025-11-12', '107-124');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 21, 3, '2025-11-12', '120-125');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 10, 3, '2025-11-12', '111-100');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 7, 3, '2025-11-12', '116-130');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 29, 3, '2025-11-12', '131-95');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 19, 3, '2025-11-12', '117-125');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 22, 3, '2025-11-12', '121-92');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 16, 3, '2025-11-12', '116-130');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 11, 3, '2025-11-12', '100-133');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 6, 3, '2025-11-12', '124-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 15, 3, '2025-11-12', '135-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 24, 3, '2025-11-12', '114-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 21, 3, '2025-11-11', '126-102');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 29, 3, '2025-11-11', '133-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 1, 3, '2025-11-11', '102-100');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 9, 3, '2025-11-11', '152-128');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 16, 3, '2025-11-11', '108-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 5, 3, '2025-11-11', '109-119');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 7, 3, '2025-11-10', '140-138');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 22, 3, '2025-11-10', '111-121');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 30, 3, '2025-11-10', '121-98');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 28, 3, '2025-11-10', '117-121');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 15, 3, '2025-11-10', '137-135');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 10, 3, '2025-11-10', '114-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 17, 3, '2025-11-10', '113-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 19, 3, '2025-11-10', '115-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 11, 3, '2025-11-10', '102-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 27, 3, '2025-11-09', '115-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 9, 3, '2025-11-09', '114-83');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 18, 3, '2025-11-09', '100-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 8, 3, '2025-11-09', '108-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 2, 3, '2025-11-09', '134-98');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 17, 3, '2025-11-09', '117-144');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 1, 3, '2025-11-09', '107-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 9, 3, '2025-11-08', '117-100');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 30, 3, '2025-11-08', '126-119');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 22, 3, '2025-11-08', '122-102');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 24, 3, '2025-11-08', '103-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 5, 3, '2025-11-08', '130-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 6, 3, '2025-11-08', '128-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 26, 3, '2025-11-08', '105-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 19, 3, '2025-11-08', '136-131');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 7, 3, '2025-11-07', '115-148');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 27, 3, '2025-11-07', '121-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 5, 3, '2025-11-07', '97-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 18, 3, '2025-11-07', '101-132');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 8, 3, '2025-11-07', '107-125');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 1, 3, '2025-11-07', '123-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 26, 3, '2025-11-07', '118-104');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 20, 3, '2025-11-07', '137-97');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 12, 3, '2025-11-07', '126-108');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 6, 3, '2025-11-07', '126-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 21, 3, '2025-11-07', '129-104');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 23, 3, '2025-11-06', '115-102');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 13, 3, '2025-11-05', '122-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 15, 3, '2025-11-05', '136-107');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 4, 3, '2025-11-05', '132-121');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 27, 3, '2025-11-05', '109-124');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 2, 3, '2025-11-05', '103-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 18, 3, '2025-11-05', '121-119');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 28, 3, '2025-11-05', '118-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 30, 3, '2025-11-05', '99-101');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 20, 3, '2025-11-05', '114-103');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 21, 3, '2025-11-05', '121-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 17, 3, '2025-11-05', '137-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 18, 3, '2025-11-04', '107-126');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 4, 3, '2025-11-04', '113-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 10, 3, '2025-11-04', '128-100');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 14, 3, '2025-11-04', '127-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 12, 3, '2025-11-04', '116-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 24, 3, '2025-11-04', '118-107');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 17, 3, '2025-11-03', '109-125');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 13, 3, '2025-11-03', '119-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 10, 3, '2025-11-03', '115-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 25, 3, '2025-11-03', '130-124');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 20, 3, '2025-11-03', '103-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 26, 3, '2025-11-03', '110-102');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 22, 3, '2025-11-03', '115-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 8, 3, '2025-11-03', '106-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 15, 3, '2025-11-03', '119-102');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 20, 3, '2025-11-02', '126-103');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 11, 3, '2025-11-02', '117-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 6, 3, '2025-11-02', '128-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 13, 3, '2025-11-02', '130-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 30, 3, '2025-11-02', '137-106');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 28, 3, '2025-11-02', '130-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 4, 3, '2025-11-02', '105-129');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 29, 3, '2025-11-02', '117-104');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 17, 3, '2025-11-01', '105-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 21, 3, '2025-11-01', '114-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 25, 3, '2025-11-01', '133-135');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 14, 3, '2025-11-01', '94-125');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 27, 3, '2025-11-01', '101-128');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 1, 3, '2025-10-31', '108-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 5, 3, '2025-10-31', '101-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 30, 3, '2025-10-31', '126-124');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 16, 3, '2025-10-31', '109-107');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 22, 3, '2025-10-31', '112-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 20, 3, '2025-10-31', '118-96');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 11, 3, '2025-10-31', '108-128');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 3, 3, '2025-10-31', '135-125');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 13, 3, '2025-10-30', '107-101');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 14, 3, '2025-10-30', '107-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 15, 3, '2025-10-30', '127-108');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 21, 3, '2025-10-30', '120-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 22, 3, '2025-10-29', '115-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 19, 3, '2025-10-29', '134-136');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 30, 3, '2025-10-29', '122-88');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 11, 3, '2025-10-29', '112-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 14, 3, '2025-10-29', '135-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 27, 3, '2025-10-29', '121-139');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 25, 3, '2025-10-29', '126-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 9, 3, '2025-10-29', '107-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 29, 3, '2025-10-29', '113-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 7, 3, '2025-10-29', '125-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 4, 3, '2025-10-28', '134-139');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 25, 3, '2025-10-28', '107-101');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 12, 3, '2025-10-28', '144-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 3, 3, '2025-10-28', '121-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 23, 3, '2025-10-28', '98-79');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 18, 3, '2025-10-27', '94-101');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 16, 3, '2025-10-27', '114-127');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 14, 3, '2025-10-27', '136-124');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 5, 3, '2025-10-27', '121-103');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 7, 3, '2025-10-27', '95-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 29, 3, '2025-10-27', '131-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 24, 3, '2025-10-27', '138-134');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 2, 3, '2025-10-27', '137-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 19, 3, '2025-10-27', '108-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 11, 3, '2025-10-27', '128-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 1, 3, '2025-10-27', '90-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 19, 3, '2025-10-26', '114-107');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 1, 3, '2025-10-26', '119-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 12, 3, '2025-10-26', '113-139');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 2, 3, '2025-10-26', '118-107');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 9, 3, '2025-10-26', '114-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 22, 3, '2025-10-26', '120-127');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 10, 3, '2025-10-26', '118-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 3, 3, '2025-10-26', '115-107');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 5, 3, '2025-10-26', '139-129');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 18, 3, '2025-10-25', '100-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 12, 3, '2025-10-25', '125-121');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 9, 3, '2025-10-25', '128-103');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 24, 3, '2025-10-25', '133-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 6, 3, '2025-10-25', '98-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 11, 3, '2025-10-24', '107-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 24, 3, '2025-10-24', '129-102');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 15, 3, '2025-10-24', '107-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 8, 3, '2025-10-24', '111-115');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (2, 7, 3, '2025-10-24', '124-131');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 10, 3, '2025-10-24', '116-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 21, 3, '2025-10-24', '139-119');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 17, 3, '2025-10-24', '128-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 1, 3, '2025-10-24', '105-95');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 13, 3, '2025-10-24', '114-146');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 20, 3, '2025-10-24', '105-104');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 28, 3, '2025-10-24', '116-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 16, 3, '2025-10-23', '137-131');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 18, 3, '2025-10-23', '135-141');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 25, 3, '2025-10-22', '120-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 4, 3, '2025-10-22', '116-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 17, 3, '2025-10-22', '114-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 5, 3, '2025-10-22', '118-138');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 15, 3, '2025-10-22', '133-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 30, 3, '2025-10-22', '128-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 7, 3, '2025-10-22', '119-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 13, 3, '2025-10-22', '125-121');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 2, 3, '2025-10-22', '136-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 28, 3, '2025-10-22', '92-125');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 8, 3, '2025-10-22', '115-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 23, 3, '2025-10-22', '129-108');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 27, 3, '2025-10-21', '125-124');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 21, 3, '2025-10-21', '109-119');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 17, 3, '2025-10-17', '126-110');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 25, 3, '2025-10-17', '116-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 16, 3, '2025-10-17', '94-91');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 12, 3, '2025-10-17', '113-108');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 9, 3, '2025-10-17', '133-104');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 2, 3, '2025-10-17', '119-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 23, 3, '2025-10-17', '103-106');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 29, 3, '2025-10-17', '125-141');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 30, 3, '2025-10-16', '132-125');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (8, 15, 3, '2025-10-16', '119-98');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 19, 3, '2025-10-16', '132-129');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 17, 3, '2025-10-16', '126-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 27, 3, '2025-10-16', '115-133');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 29, 3, '2025-10-15', '145-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 26, 3, '2025-10-15', '94-121');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 5, 3, '2025-10-15', '110-108');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 23, 3, '2025-10-15', '91-109');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (24, 22, 3, '2025-10-14', '113-104');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 18, 3, '2025-10-14', '112-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 21, 3, '2025-10-14', '111-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (30, 27, 3, '2025-10-14', '128-130');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 8, 3, '2025-10-14', '118-100');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 6, 3, '2025-10-14', '124-117');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 28, 3, '2025-10-13', '108-124');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 15, 3, '2025-10-13', '103-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (11, 13, 3, '2025-10-13', '119-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (20, 26, 3, '2025-10-13', '101-114');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 21, 3, '2025-10-12', '126-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 10, 3, '2025-10-12', '121-127');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (14, 13, 3, '2025-10-12', '120-104');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (1, 7, 3, '2025-10-12', '138-107');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (23, 16, 3, '2025-10-12', '94-102');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (15, 5, 3, '2025-10-12', '112-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 11, 3, '2025-10-11', '116-122');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (9, 18, 3, '2025-10-11', '116-101');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 12, 3, '2025-10-11', '116-120');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 1, 3, '2025-10-10', '107-105');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (4, 14, 3, '2025-10-10', '98-128');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (28, 20, 3, '2025-10-10', '134-130');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (19, 25, 3, '2025-10-10', '124-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (3, 17, 3, '2025-10-09', '100-95');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (18, 12, 3, '2025-10-09', '122-116');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (6, 7, 3, '2025-10-09', '119-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (10, 8, 3, '2025-10-09', '117-111');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 1, 3, '2025-10-08', '103-121');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 20, 3, '2025-10-08', '140-127');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 19, 3, '2025-10-08', '129-123');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (25, 5, 3, '2025-10-08', '122-130');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 28, 3, '2025-10-08', '107-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (17, 9, 3, '2025-10-07', '134-135');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (7, 6, 3, '2025-10-07', '117-118');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 10, 3, '2025-10-06', '93-103');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (27, 11, 3, '2025-10-06', '122-113');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (5, 16, 3, '2025-10-06', '108-112');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (29, 8, 3, '2025-10-06', '112-128');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (26, 18, 3, '2025-10-06', '106-89');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (12, 18, 3, '2025-10-05', '114-135');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (21, 22, 3, '2025-10-05', '111-103');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (16, 17, 3, '2025-10-04', '116-126');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (13, 14, 3, '2025-10-04', '118-126');
-
-INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES (22, 24, 3, '2025-10-03', '81-103');
+VALUES
+(18, 28, 3, '2026-05-30', '103-111'),
+(28, 18, 3, '2026-05-28', '118-91'),
+(18, 28, 3, '2026-05-26', '127-114'),
+(7, 3, 3, '2026-05-25', '93-130'),
+(28, 18, 3, '2026-05-24', '103-82'),
+(7, 3, 3, '2026-05-23', '108-121'),
+(28, 18, 3, '2026-05-22', '108-123'),
+(3, 7, 3, '2026-05-21', '109-93'),
+(18, 28, 3, '2026-05-20', '122-113'),
+(3, 7, 3, '2026-05-19', '115-104'),
+(18, 28, 3, '2026-05-18', '115-122'),
+(8, 7, 3, '2026-05-17', '94-125'),
+(17, 28, 3, '2026-05-15', '109-139'),
+(7, 8, 3, '2026-05-15', '94-115'),
+(8, 7, 3, '2026-05-13', '113-117'),
+(28, 17, 3, '2026-05-12', '126-97'),
+(22, 18, 3, '2026-05-11', '110-115'),
+(7, 8, 3, '2026-05-11', '112-103'),
+(17, 28, 3, '2026-05-10', '114-109'),
+(4, 3, 3, '2026-05-10', '114-144'),
+(22, 18, 3, '2026-05-09', '108-131'),
+(7, 8, 3, '2026-05-09', '116-109'),
+(17, 28, 3, '2026-05-08', '108-115'),
+(4, 3, 3, '2026-05-08', '94-108'),
+(18, 22, 3, '2026-05-07', '125-107'),
+(8, 7, 3, '2026-05-07', '107-97'),
+(3, 4, 3, '2026-05-06', '108-102'),
+(28, 17, 3, '2026-05-06', '133-95'),
+(8, 7, 3, '2026-05-05', '111-101'),
+(18, 22, 3, '2026-05-05', '108-90'),
+(3, 4, 3, '2026-05-04', '137-98'),
+(28, 17, 3, '2026-05-04', '102-104'),
+(8, 14, 3, '2026-05-03', '116-94'),
+(7, 5, 3, '2026-05-03', '114-102'),
+(1, 4, 3, '2026-05-02', '100-109'),
+(5, 7, 3, '2026-05-01', '112-110'),
+(14, 8, 3, '2026-05-01', '79-93'),
+(27, 22, 3, '2026-05-01', '78-98'),
+(17, 16, 3, '2026-04-30', '110-98'),
+(4, 1, 3, '2026-04-30', '106-93'),
+(11, 3, 3, '2026-04-30', '89-140'),
+(7, 5, 3, '2026-04-29', '125-120'),
+(22, 27, 3, '2026-04-29', '93-99'),
+(8, 14, 3, '2026-04-29', '116-109'),
+(3, 11, 3, '2026-04-28', '126-97'),
+(28, 19, 3, '2026-04-28', '114-95'),
+(1, 4, 3, '2026-04-28', '97-113'),
+(24, 18, 3, '2026-04-27', '122-131'),
+(14, 8, 3, '2026-04-27', '94-88'),
+(16, 17, 3, '2026-04-27', '125-113'),
+(19, 28, 3, '2026-04-26', '93-114'),
+(27, 22, 3, '2026-04-26', '115-96'),
+(4, 1, 3, '2026-04-26', '96-128'),
+(5, 7, 3, '2026-04-26', '93-89'),
+(24, 18, 3, '2026-04-25', '109-121'),
+(11, 3, 3, '2026-04-25', '98-114'),
+(14, 8, 3, '2026-04-25', '113-105'),
+(17, 16, 3, '2026-04-25', '112-96'),
+(27, 22, 3, '2026-04-24', '108-112'),
+(19, 28, 3, '2026-04-24', '108-120'),
+(4, 1, 3, '2026-04-24', '100-108'),
+(11, 3, 3, '2026-04-23', '109-108'),
+(17, 16, 3, '2026-04-23', '113-96'),
+(5, 7, 3, '2026-04-23', '126-104'),
+(18, 24, 3, '2026-04-22', '120-107'),
+(8, 14, 3, '2026-04-22', '98-83'),
+(28, 19, 3, '2026-04-21', '103-106'),
+(22, 27, 3, '2026-04-21', '101-94'),
+(1, 4, 3, '2026-04-21', '97-111'),
+(16, 17, 3, '2026-04-20', '114-119'),
+(3, 11, 3, '2026-04-20', '106-107'),
+(7, 5, 3, '2026-04-20', '115-105'),
+(28, 19, 3, '2026-04-19', '111-98'),
+(1, 4, 3, '2026-04-19', '123-91'),
+(18, 24, 3, '2026-04-19', '119-84'),
+(8, 14, 3, '2026-04-19', '101-112'),
+(7, 5, 3, '2026-04-18', '126-113'),
+(22, 27, 3, '2026-04-18', '107-98'),
+(3, 11, 3, '2026-04-18', '113-102'),
+(16, 17, 3, '2026-04-18', '116-105'),
+(24, 21, 3, '2026-04-17', '111-96'),
+(14, 12, 3, '2026-04-17', '121-90'),
+(23, 21, 3, '2026-04-15', '121-126'),
+(4, 14, 3, '2026-04-15', '109-97'),
+(12, 13, 3, '2026-04-14', '127-126'),
+(24, 19, 3, '2026-04-14', '110-114'),
+(28, 16, 3, '2026-04-12', '118-128'),
+(4, 10, 3, '2026-04-12', '126-106'),
+(26, 6, 3, '2026-04-12', '149-128'),
+(1, 14, 3, '2026-04-12', '113-108'),
+(13, 11, 3, '2026-04-12', '143-117'),
+(7, 15, 3, '2026-04-12', '130-117'),
+(9, 8, 3, '2026-04-12', '121-133'),
+(22, 20, 3, '2026-04-12', '131-107'),
+(27, 29, 3, '2026-04-12', '132-101'),
+(5, 2, 3, '2026-04-12', '136-101'),
+(23, 21, 3, '2026-04-12', '115-110'),
+(3, 12, 3, '2026-04-12', '96-110'),
+(17, 30, 3, '2026-04-12', '132-126'),
+(19, 25, 3, '2026-04-12', '122-110'),
+(18, 24, 3, '2026-04-12', '103-135'),
+(11, 7, 3, '2026-04-10', '124-102'),
+(10, 2, 3, '2026-04-10', '125-108'),
+(22, 24, 3, '2026-04-10', '101-73'),
+(6, 14, 3, '2026-04-10', '103-127'),
+(1, 30, 3, '2026-04-10', '144-118'),
+(27, 17, 3, '2026-04-10', '132-136'),
+(25, 21, 3, '2026-04-10', '124-118'),
+(19, 23, 3, '2026-04-10', '116-97'),
+(15, 13, 3, '2026-04-10', '117-140'),
+(9, 4, 3, '2026-04-10', '94-105'),
+(12, 8, 3, '2026-04-10', '100-118'),
+(20, 29, 3, '2026-04-10', '147-101'),
+(16, 18, 3, '2026-04-10', '127-107'),
+(3, 5, 3, '2026-04-10', '112-95'),
+(28, 26, 3, '2026-04-10', '139-120'),
+(27, 4, 3, '2026-04-09', '113-102'),
+(15, 6, 3, '2026-04-09', '108-119'),
+(21, 22, 3, '2026-04-09', '103-119'),
+(5, 13, 3, '2026-04-09', '128-114'),
+(3, 1, 3, '2026-04-09', '112-106'),
+(2, 9, 3, '2026-04-09', '94-123'),
+(23, 18, 3, '2026-04-08', '110-128'),
+(7, 11, 3, '2026-04-08', '122-116'),
+(8, 10, 3, '2026-04-08', '137-111'),
+(28, 19, 3, '2026-04-08', '112-101'),
+(24, 26, 3, '2026-04-08', '112-107'),
+(14, 17, 3, '2026-04-08', '132-120'),
+(16, 29, 3, '2026-04-08', '136-119'),
+(22, 18, 3, '2026-04-07', '87-123'),
+(23, 26, 3, '2026-04-07', '116-103'),
+(24, 27, 3, '2026-04-07', '105-119'),
+(2, 10, 3, '2026-04-07', '96-90'),
+(9, 17, 3, '2026-04-07', '104-124'),
+(21, 25, 3, '2026-04-07', '110-105'),
+(15, 6, 3, '2026-04-07', '98-129'),
+(5, 13, 3, '2026-04-07', '121-95'),
+(1, 12, 3, '2026-04-07', '113-102'),
+(30, 20, 3, '2026-04-07', '156-137'),
+(29, 7, 3, '2026-04-06', '126-142'),
+(16, 19, 3, '2026-04-06', '137-132'),
+(11, 3, 3, '2026-04-06', '105-108'),
+(14, 8, 3, '2026-04-06', '123-107'),
+(28, 4, 3, '2026-04-06', '115-102'),
+(26, 22, 3, '2026-04-05', '134-128'),
+(30, 14, 3, '2026-04-05', '108-112'),
+(18, 20, 3, '2026-04-05', '146-111'),
+(21, 27, 3, '2026-04-05', '116-117'),
+(25, 23, 3, '2026-04-05', '109-138'),
+(10, 29, 3, '2026-04-05', '131-115'),
+(7, 9, 3, '2026-04-05', '117-108'),
+(2, 15, 3, '2026-04-05', '121-115'),
+(17, 12, 3, '2026-04-05', '108-122'),
+(1, 5, 3, '2026-04-05', '115-101'),
+(6, 24, 3, '2026-04-05', '110-120'),
+(16, 28, 3, '2026-04-04', '136-134'),
+(4, 8, 3, '2026-04-04', '93-116'),
+(13, 15, 3, '2026-04-04', '152-136'),
+(12, 9, 3, '2026-04-03', '129-108'),
+(29, 5, 3, '2026-04-03', '96-128'),
+(2, 11, 3, '2026-04-03', '107-141'),
+(10, 1, 3, '2026-04-03', '101-133'),
+(25, 30, 3, '2026-04-03', '117-113'),
+(4, 17, 3, '2026-04-03', '115-103'),
+(3, 6, 3, '2026-04-03', '136-96'),
+(27, 20, 3, '2026-04-03', '140-106'),
+(26, 14, 3, '2026-04-03', '127-138'),
+(23, 28, 3, '2026-04-02', '99-118'),
+(18, 22, 3, '2026-04-02', '139-96'),
+(8, 17, 3, '2026-04-02', '113-108'),
+(19, 30, 3, '2026-04-02', '118-106'),
+(12, 24, 3, '2026-04-02', '127-107'),
+(21, 7, 3, '2026-04-02', '111-118'),
+(29, 3, 3, '2026-04-01', '119-130'),
+(27, 10, 3, '2026-04-01', '119-113'),
+(5, 25, 3, '2026-04-01', '115-123'),
+(21, 28, 3, '2026-04-01', '113-127'),
+(20, 16, 3, '2026-04-01', '117-130'),
+(15, 4, 3, '2026-04-01', '131-153'),
+(6, 9, 3, '2026-04-01', '126-145'),
+(13, 1, 3, '2026-04-01', '129-147'),
+(14, 11, 3, '2026-04-01', '101-130'),
+(10, 26, 3, '2026-03-31', '123-99'),
+(27, 3, 3, '2026-03-31', '111-94'),
+(2, 12, 3, '2026-03-31', '86-117'),
+(14, 24, 3, '2026-03-31', '115-111'),
+(22, 7, 3, '2026-03-31', '127-113'),
+(8, 5, 3, '2026-03-31', '127-116'),
+(23, 19, 3, '2026-03-31', '104-114'),
+(18, 8, 3, '2026-03-30', '114-110'),
+(26, 17, 3, '2026-03-30', '94-124'),
+(29, 24, 3, '2026-03-30', '105-131'),
+(22, 15, 3, '2026-03-30', '120-101'),
+(20, 7, 3, '2026-03-30', '113-122'),
+(13, 4, 3, '2026-03-30', '119-109'),
+(28, 6, 3, '2026-03-30', '129-114'),
+(11, 1, 3, '2026-03-30', '112-102'),
+(9, 13, 3, '2026-03-29', '135-118'),
+(2, 25, 3, '2026-03-29', '116-99'),
+(12, 1, 3, '2026-03-29', '99-114'),
+(18, 3, 3, '2026-03-29', '111-100'),
+(10, 23, 3, '2026-03-29', '113-127'),
+(19, 15, 3, '2026-03-29', '123-88'),
+(30, 27, 3, '2026-03-29', '102-134'),
+(16, 21, 3, '2026-03-29', '116-93'),
+(5, 14, 3, '2026-03-29', '139-87'),
+(29, 6, 3, '2026-03-28', '125-124'),
+(12, 4, 3, '2026-03-28', '114-118'),
+(24, 20, 3, '2026-03-28', '134-109'),
+(10, 28, 3, '2026-03-28', '95-127'),
+(11, 25, 3, '2026-03-28', '123-113'),
+(17, 8, 3, '2026-03-28', '87-109'),
+(7, 13, 3, '2026-03-27', '149-128'),
+(18, 6, 3, '2026-03-27', '131-113'),
+(29, 27, 3, '2026-03-27', '109-119'),
+(5, 30, 3, '2026-03-27', '119-106'),
+(1, 11, 3, '2026-03-27', '109-102'),
+(21, 15, 3, '2026-03-27', '131-126'),
+(9, 23, 3, '2026-03-27', '113-114'),
+(16, 20, 3, '2026-03-27', '135-129'),
+(22, 2, 3, '2026-03-27', '116-99'),
+(19, 26, 3, '2026-03-27', '93-100'),
+(12, 3, 3, '2026-03-26', '114-103'),
+(8, 30, 3, '2026-03-26', '129-108'),
+(14, 25, 3, '2026-03-26', '121-117'),
+(17, 27, 3, '2026-03-25', '110-108'),
+(1, 18, 3, '2026-03-25', '119-109'),
+(19, 10, 3, '2026-03-25', '130-99'),
+(4, 6, 3, '2026-03-25', '157-137'),
+(29, 28, 3, '2026-03-25', '98-123'),
+(9, 22, 3, '2026-03-25', '130-137'),
+(21, 2, 3, '2026-03-25', '109-106'),
+(7, 13, 3, '2026-03-25', '103-120'),
+(8, 11, 3, '2026-03-25', '129-130'),
+(23, 5, 3, '2026-03-25', '119-94'),
+(16, 26, 3, '2026-03-25', '142-135'),
+(20, 15, 3, '2026-03-25', '110-133'),
+(7, 14, 3, '2026-03-24', '136-131'),
+(3, 30, 3, '2026-03-24', '121-116'),
+(24, 16, 3, '2026-03-24', '123-125'),
+(12, 25, 3, '2026-03-24', '134-90'),
+(20, 5, 3, '2026-03-23', '127-143'),
+(11, 29, 3, '2026-03-23', '146-107'),
+(8, 22, 3, '2026-03-23', '113-110'),
+(26, 21, 3, '2026-03-23', '131-137'),
+(14, 9, 3, '2026-03-23', '126-128'),
+(4, 18, 3, '2026-03-23', '103-123'),
+(19, 2, 3, '2026-03-23', '134-99'),
+(23, 10, 3, '2026-03-23', '129-96'),
+(6, 27, 3, '2026-03-23', '132-124'),
+(13, 28, 3, '2026-03-23', '111-136'),
+(25, 2, 3, '2026-03-22', '126-122'),
+(1, 17, 3, '2026-03-22', '92-102'),
+(16, 19, 3, '2026-03-22', '128-112'),
+(3, 15, 3, '2026-03-22', '145-113'),
+(24, 5, 3, '2026-03-22', '120-98'),
+(26, 23, 3, '2026-03-21', '131-138'),
+(15, 18, 3, '2026-03-21', '111-132'),
+(24, 10, 3, '2026-03-21', '105-108'),
+(28, 9, 3, '2026-03-21', '134-119'),
+(14, 22, 3, '2026-03-21', '104-105'),
+(27, 13, 3, '2026-03-21', '123-122'),
+(20, 4, 3, '2026-03-21', '116-126'),
+(11, 21, 3, '2026-03-21', '126-110'),
+(12, 29, 3, '2026-03-21', '124-101'),
+(30, 7, 3, '2026-03-21', '106-111'),
+(29, 1, 3, '2026-03-20', '112-117'),
+(17, 19, 3, '2026-03-20', '104-108'),
+(2, 3, 3, '2026-03-20', '92-93'),
+(16, 5, 3, '2026-03-20', '121-115'),
+(8, 21, 3, '2026-03-20', '115-101'),
+(27, 11, 3, '2026-03-20', '117-95'),
+(30, 23, 3, '2026-03-19', '105-99'),
+(20, 10, 3, '2026-03-19', '128-96'),
+(28, 24, 3, '2026-03-19', '101-100'),
+(25, 4, 3, '2026-03-19', '118-139'),
+(12, 14, 3, '2026-03-19', '130-111'),
+(13, 22, 3, '2026-03-19', '126-134'),
+(6, 7, 3, '2026-03-19', '110-115'),
+(15, 8, 3, '2026-03-19', '95-117'),
+(6, 5, 3, '2026-03-18', '109-139'),
+(29, 16, 3, '2026-03-18', '125-118'),
+(1, 21, 3, '2026-03-18', '120-99'),
+(2, 18, 3, '2026-03-18', '92-121'),
+(30, 23, 3, '2026-03-18', '124-109'),
+(9, 19, 3, '2026-03-18', '119-127'),
+(26, 11, 3, '2026-03-18', '120-135'),
+(17, 20, 3, '2026-03-18', '147-111'),
+(27, 22, 3, '2026-03-18', '116-124'),
+(3, 9, 3, '2026-03-17', '136-110'),
+(10, 7, 3, '2026-03-17', '116-123'),
+(15, 8, 3, '2026-03-17', '117-130'),
+(14, 18, 3, '2026-03-17', '108-113'),
+(25, 28, 3, '2026-03-17', '104-132'),
+(16, 4, 3, '2026-03-17', '124-96'),
+(17, 24, 3, '2026-03-17', '116-104'),
+(12, 13, 3, '2026-03-17', '136-106'),
+(2, 19, 3, '2026-03-16', '95-114'),
+(23, 28, 3, '2026-03-16', '115-119'),
+(30, 26, 3, '2026-03-16', '129-111'),
+(6, 29, 3, '2026-03-16', '132-107'),
+(11, 14, 3, '2026-03-16', '124-112'),
+(1, 24, 3, '2026-03-16', '120-112'),
+(27, 22, 3, '2026-03-16', '92-100'),
+(15, 21, 3, '2026-03-16', '117-125'),
+(5, 8, 3, '2026-03-15', '119-108'),
+(4, 19, 3, '2026-03-15', '109-103'),
+(18, 17, 3, '2026-03-15', '116-103'),
+(10, 9, 3, '2026-03-15', '134-123'),
+(7, 26, 3, '2026-03-15', '120-130'),
+(25, 20, 3, '2026-03-15', '116-111'),
+(3, 21, 3, '2026-03-15', '110-107'),
+(28, 12, 3, '2026-03-14', '115-102'),
+(13, 14, 3, '2026-03-14', '117-121'),
+(4, 2, 3, '2026-03-14', '104-97'),
+(23, 25, 3, '2026-03-14', '109-118'),
+(22, 16, 3, '2026-03-14', '127-125'),
+(1, 15, 3, '2026-03-14', '111-100'),
+(11, 10, 3, '2026-03-14', '122-99'),
+(26, 7, 3, '2026-03-13', '105-138'),
+(23, 6, 3, '2026-03-13', '119-108'),
+(19, 20, 3, '2026-03-13', '124-114'),
+(5, 24, 3, '2026-03-13', '122-115'),
+(27, 30, 3, '2026-03-13', '107-105'),
+(21, 17, 3, '2026-03-13', '117-127'),
+(9, 3, 3, '2026-03-13', '92-101'),
+(8, 29, 3, '2026-03-13', '126-110'),
+(8, 4, 3, '2026-03-12', '131-109'),
+(18, 1, 3, '2026-03-12', '104-102'),
+(29, 26, 3, '2026-03-12', '112-120'),
+(9, 24, 3, '2026-03-12', '108-123'),
+(22, 6, 3, '2026-03-12', '142-130'),
+(13, 10, 3, '2026-03-12', '112-105'),
+(28, 16, 3, '2026-03-12', '131-136'),
+(14, 15, 3, '2026-03-12', '136-131'),
+(11, 2, 3, '2026-03-12', '108-97'),
+(20, 3, 3, '2026-03-11', '117-134'),
+(30, 5, 3, '2026-03-11', '122-111'),
+(23, 17, 3, '2026-03-11', '153-128'),
+(25, 12, 3, '2026-03-11', '109-117'),
+(14, 7, 3, '2026-03-11', '128-122'),
+(16, 27, 3, '2026-03-11', '129-93'),
+(22, 17, 3, '2026-03-10', '120-106'),
+(11, 26, 3, '2026-03-10', '124-112'),
+(10, 24, 3, '2026-03-10', '114-129'),
+(13, 15, 3, '2026-03-10', '150-129'),
+(25, 9, 3, '2026-03-10', '114-109'),
+(21, 6, 3, '2026-03-10', '124-130'),
+(28, 1, 3, '2026-03-10', '125-116'),
+(4, 29, 3, '2026-03-10', '139-129'),
+(19, 12, 3, '2026-03-10', '101-103'),
+(27, 5, 3, '2026-03-10', '113-99'),
+(2, 8, 3, '2026-03-10', '100-138'),
+(18, 16, 3, '2026-03-09', '129-126'),
+(20, 21, 3, '2026-03-09', '119-116'),
+(7, 4, 3, '2026-03-09', '115-101'),
+(2, 29, 3, '2026-03-09', '126-115'),
+(23, 3, 3, '2026-03-09', '126-118'),
+(30, 15, 3, '2026-03-08', '138-118'),
+(19, 9, 3, '2026-03-08', '131-111'),
+(5, 26, 3, '2026-03-08', '122-92'),
+(28, 27, 3, '2026-03-08', '145-120'),
+(7, 1, 3, '2026-03-08', '98-109'),
+(22, 3, 3, '2026-03-08', '110-97'),
+(24, 12, 3, '2026-03-08', '111-99'),
+(13, 8, 3, '2026-03-08', '121-110'),
+(10, 14, 3, '2026-03-08', '91-130'),
+(25, 6, 3, '2026-03-08', '126-110'),
+(10, 20, 3, '2026-03-07', '113-99'),
+(11, 4, 3, '2026-03-07', '125-116'),
+(17, 14, 3, '2026-03-07', '92-119'),
+(29, 23, 3, '2026-03-07', '120-123'),
+(8, 2, 3, '2026-03-07', '105-107'),
+(18, 21, 3, '2026-03-07', '104-97'),
+(28, 23, 3, '2026-03-06', '116-112'),
+(12, 13, 3, '2026-03-06', '120-128'),
+(1, 26, 3, '2026-03-06', '120-100'),
+(16, 3, 3, '2026-03-06', '103-142'),
+(22, 9, 3, '2026-03-06', '128-117'),
+(24, 30, 3, '2026-03-06', '118-116'),
+(27, 19, 3, '2026-03-06', '106-99'),
+(28, 8, 3, '2026-03-05', '121-106'),
+(27, 21, 3, '2026-03-05', '113-115'),
+(16, 22, 3, '2026-03-05', '120-113'),
+(13, 2, 3, '2026-03-05', '126-110'),
+(14, 26, 3, '2026-03-05', '115-114'),
+(25, 30, 3, '2026-03-05', '123-133'),
+(15, 20, 3, '2026-03-05', '112-122'),
+(17, 5, 3, '2026-03-05', '115-107'),
+(24, 6, 3, '2026-03-05', '103-105'),
+(10, 11, 3, '2026-03-04', '113-131'),
+(23, 9, 3, '2026-03-04', '130-107'),
+(29, 19, 3, '2026-03-04', '114-122'),
+(4, 20, 3, '2026-03-04', '106-102'),
+(3, 18, 3, '2026-03-04', '100-103'),
+(1, 12, 3, '2026-03-04', '89-118'),
+(6, 18, 3, '2026-03-03', '108-116'),
+(12, 26, 3, '2026-03-03', '117-90'),
+(13, 2, 3, '2026-03-03', '124-98'),
+(17, 29, 3, '2026-03-03', '117-110'),
+(7, 8, 3, '2026-03-03', '113-109'),
+(25, 24, 3, '2026-03-03', '103-114'),
+(14, 15, 3, '2026-03-03', '126-109'),
+(22, 30, 3, '2026-03-03', '110-101'),
+(4, 28, 3, '2026-03-03', '91-131'),
+(5, 3, 3, '2026-03-03', '95-111'),
+(10, 1, 3, '2026-03-02', '81-108'),
+(15, 27, 3, '2026-03-02', '118-123'),
+(21, 23, 3, '2026-03-02', '101-114'),
+(20, 16, 3, '2026-03-02', '125-128'),
+(3, 28, 3, '2026-03-01', '114-89'),
+(16, 17, 3, '2026-03-01', '108-117'),
+(11, 19, 3, '2026-03-01', '135-101'),
+(26, 18, 3, '2026-03-01', '87-100'),
+(6, 10, 3, '2026-03-01', '120-97'),
+(9, 29, 3, '2026-03-01', '106-125'),
+(2, 7, 3, '2026-03-01', '102-106'),
+(14, 8, 3, '2026-03-01', '92-106'),
+(22, 25, 3, '2026-03-01', '128-104'),
+(23, 30, 3, '2026-03-01', '137-117'),
+(1, 4, 3, '2026-03-01', '114-98'),
+(21, 22, 3, '2026-02-28', '101-129'),
+(13, 27, 3, '2026-02-28', '115-105'),
+(12, 19, 3, '2026-02-28', '109-93'),
+(15, 5, 3, '2026-02-28', '125-134'),
+(20, 30, 3, '2026-02-28', '105-115'),
+(8, 7, 3, '2026-02-27', '122-119'),
+(10, 3, 3, '2026-02-27', '98-127'),
+(18, 16, 3, '2026-02-27', '127-121'),
+(1, 2, 3, '2026-02-27', '148-111'),
+(26, 29, 3, '2026-02-27', '105-124'),
+(14, 27, 3, '2026-02-26', '108-113'),
+(9, 12, 3, '2026-02-26', '109-133'),
+(26, 25, 3, '2026-02-26', '121-130'),
+(2, 28, 3, '2026-02-26', '110-126'),
+(24, 22, 3, '2026-02-26', '113-110'),
+(4, 13, 3, '2026-02-26', '124-117'),
+(20, 30, 3, '2026-02-26', '118-129'),
+(6, 19, 3, '2026-02-26', '112-121'),
+(11, 15, 3, '2026-02-26', '126-96'),
+(23, 17, 3, '2026-02-26', '88-94'),
+(8, 18, 3, '2026-02-25', '124-116'),
+(5, 28, 3, '2026-02-25', '107-110'),
+(10, 7, 3, '2026-02-25', '118-116'),
+(27, 25, 3, '2026-02-25', '128-97'),
+(16, 1, 3, '2026-02-25', '103-84'),
+(29, 21, 3, '2026-02-25', '112-133'),
+(7, 3, 3, '2026-02-24', '109-94'),
+(9, 4, 3, '2026-02-24', '114-135'),
+(2, 26, 3, '2026-02-24', '114-123'),
+(6, 12, 3, '2026-02-24', '99-131'),
+(10, 13, 3, '2026-02-24', '128-117'),
+(11, 15, 3, '2026-02-24', '119-98'),
+(19, 17, 3, '2026-02-24', '121-124'),
+(30, 21, 3, '2026-02-24', '113-109'),
+(22, 14, 3, '2026-02-24', '109-110'),
+(24, 1, 3, '2026-02-24', '81-97'),
+(5, 18, 3, '2026-02-24', '107-116'),
+(27, 20, 3, '2026-02-23', '125-105'),
+(8, 28, 3, '2026-02-23', '103-114'),
+(29, 25, 3, '2026-02-23', '114-123'),
+(24, 19, 3, '2026-02-22', '77-92'),
+(18, 7, 3, '2026-02-22', '121-113'),
+(6, 3, 3, '2026-02-22', '99-105'),
+(15, 12, 3, '2026-02-22', '112-129'),
+(11, 2, 3, '2026-02-22', '115-104'),
+(22, 1, 3, '2026-02-22', '89-111'),
+(23, 14, 3, '2026-02-22', '109-111'),
+(21, 16, 3, '2026-02-22', '128-117'),
+(10, 5, 3, '2026-02-22', '94-122'),
+(9, 26, 3, '2026-02-22', '130-134'),
+(17, 4, 3, '2026-02-22', '108-135'),
+(13, 29, 3, '2026-02-21', '136-120'),
+(28, 25, 3, '2026-02-21', '139-122'),
+(30, 4, 3, '2026-02-21', '126-111'),
+(3, 27, 3, '2026-02-21', '108-106'),
+(6, 8, 3, '2026-02-21', '110-126'),
+(24, 14, 3, '2026-02-21', '113-110'),
+(30, 10, 3, '2026-02-20', '118-139'),
+(22, 23, 3, '2026-02-20', '125-122'),
+(12, 7, 3, '2026-02-20', '113-118'),
+(15, 9, 3, '2026-02-20', '131-118'),
+(17, 26, 3, '2026-02-20', '122-111'),
+(11, 13, 3, '2026-02-20', '97-128'),
+(19, 16, 3, '2026-02-20', '103-157'),
+(18, 2, 3, '2026-02-20', '105-86'),
+(29, 20, 3, '2026-02-20', '123-114'),
+(23, 16, 3, '2026-02-19', '115-114'),
+(15, 9, 3, '2026-02-19', '112-105'),
+(21, 1, 3, '2026-02-19', '110-121'),
+(4, 11, 3, '2026-02-19', '107-117'),
+(7, 2, 3, '2026-02-19', '112-84'),
+(3, 8, 3, '2026-02-19', '111-126'),
+(25, 14, 3, '2026-02-19', '94-131'),
+(28, 24, 3, '2026-02-19', '121-94'),
+(6, 5, 3, '2026-02-19', '101-110'),
+(12, 27, 3, '2026-02-19', '101-105'),
+(20, 19, 3, '2026-02-12', '119-135'),
+(18, 10, 3, '2026-02-12', '93-110'),
+(22, 26, 3, '2026-02-12', '124-104'),
+(16, 29, 3, '2026-02-11', '122-116'),
+(17, 19, 3, '2026-02-11', '133-109'),
+(24, 18, 3, '2026-02-11', '109-136'),
+(30, 13, 3, '2026-02-11', '111-123'),
+(14, 10, 3, '2026-02-11', '108-116'),
+(12, 11, 3, '2026-02-11', '110-107'),
+(1, 6, 3, '2026-02-11', '124-105'),
+(20, 25, 3, '2026-02-11', '121-93'),
+(4, 3, 3, '2026-02-11', '89-138'),
+(21, 28, 3, '2026-02-11', '113-126'),
+(7, 15, 3, '2026-02-11', '138-113'),
+(27, 23, 3, '2026-02-11', '102-105'),
+(5, 8, 3, '2026-02-11', '95-113'),
+(2, 9, 3, '2026-02-11', '110-115'),
+(3, 9, 3, '2026-02-10', '134-137'),
+(27, 23, 3, '2026-02-10', '102-95'),
+(22, 28, 3, '2026-02-10', '108-136'),
+(24, 26, 3, '2026-02-10', '120-111'),
+(21, 29, 3, '2026-02-09', '114-113'),
+(19, 4, 3, '2026-02-09', '135-118'),
+(13, 20, 3, '2026-02-09', '111-115'),
+(14, 10, 3, '2026-02-09', '118-99'),
+(22, 18, 3, '2026-02-09', '110-119'),
+(2, 6, 3, '2026-02-09', '123-115'),
+(17, 11, 3, '2026-02-09', '138-116'),
+(30, 25, 3, '2026-02-09', '120-94'),
+(12, 8, 3, '2026-02-09', '104-110'),
+(16, 7, 3, '2026-02-09', '117-119'),
+(1, 3, 3, '2026-02-08', '89-111'),
+(5, 9, 3, '2026-02-08', '122-104'),
+(17, 23, 3, '2026-02-08', '96-115'),
+(15, 13, 3, '2026-02-08', '101-132'),
+(25, 7, 3, '2026-02-07', '126-132'),
+(19, 29, 3, '2026-02-07', '122-115'),
+(24, 4, 3, '2026-02-07', '103-109'),
+(22, 21, 3, '2026-02-07', '105-99'),
+(18, 27, 3, '2026-02-07', '106-112'),
+(11, 12, 3, '2026-02-07', '119-126'),
+(6, 16, 3, '2026-02-07', '120-136'),
+(14, 20, 3, '2026-02-07', '120-117'),
+(28, 26, 3, '2026-02-07', '138-125'),
+(2, 15, 3, '2026-02-07', '127-113'),
+(8, 3, 3, '2026-02-06', '118-80'),
+(19, 29, 3, '2026-02-06', '135-115'),
+(1, 13, 3, '2026-02-06', '98-96'),
+(17, 30, 3, '2026-02-06', '115-119'),
+(10, 9, 3, '2026-02-06', '105-99'),
+(25, 23, 3, '2026-02-06', '111-114'),
+(8, 15, 3, '2026-02-05', '117-126'),
+(27, 12, 3, '2026-02-05', '99-109'),
+(5, 6, 3, '2026-02-05', '123-107'),
+(22, 4, 3, '2026-02-05', '119-115'),
+(11, 20, 3, '2026-02-05', '121-119'),
+(14, 2, 3, '2026-02-05', '118-98'),
+(26, 28, 3, '2026-02-05', '123-135'),
+(24, 21, 3, '2026-02-05', '97-101'),
+(25, 29, 3, '2026-02-04', '125-129'),
+(5, 17, 3, '2026-02-04', '126-128'),
+(27, 1, 3, '2026-02-04', '93-114'),
+(10, 30, 3, '2026-02-04', '141-137'),
+(3, 16, 3, '2026-02-04', '134-127'),
+(28, 18, 3, '2026-02-04', '116-106'),
+(23, 7, 3, '2026-02-04', '91-124'),
+(2, 22, 3, '2026-02-03', '109-125'),
+(13, 11, 3, '2026-02-03', '115-127'),
+(8, 16, 3, '2026-02-03', '124-121'),
+(15, 3, 3, '2026-02-03', '101-132'),
+(26, 1, 3, '2026-02-03', '100-110'),
+(18, 14, 3, '2026-02-03', '128-92'),
+(10, 6, 3, '2026-02-03', '131-115'),
+(9, 20, 3, '2026-02-03', '122-131'),
+(19, 24, 3, '2026-02-03', '125-130'),
+(21, 4, 3, '2026-02-03', '94-113'),
+(29, 17, 3, '2026-02-02', '137-128'),
+(12, 30, 3, '2026-02-02', '102-95'),
+(9, 27, 3, '2026-02-02', '114-118'),
+(23, 4, 3, '2026-02-02', '113-128'),
+(16, 18, 3, '2026-02-01', '111-121'),
+(13, 6, 3, '2026-02-01', '134-91'),
+(3, 22, 3, '2026-02-01', '112-100'),
+(15, 25, 3, '2026-02-01', '116-112'),
+(1, 10, 3, '2026-02-01', '107-79'),
+(5, 20, 3, '2026-02-01', '107-100'),
+(28, 14, 3, '2026-02-01', '112-103'),
+(8, 2, 3, '2026-02-01', '130-77'),
+(24, 23, 3, '2026-02-01', '93-117'),
+(19, 7, 3, '2026-02-01', '111-130'),
+(12, 28, 3, '2026-01-31', '111-106'),
+(29, 17, 3, '2026-01-31', '114-131'),
+(9, 11, 3, '2026-01-31', '129-124'),
+(13, 6, 3, '2026-01-31', '118-125'),
+(4, 30, 3, '2026-01-31', '124-114'),
+(27, 26, 3, '2026-01-31', '111-107'),
+(14, 5, 3, '2026-01-30', '130-120'),
+(16, 23, 3, '2026-01-30', '122-109'),
+(21, 8, 3, '2026-01-30', '124-131'),
+(3, 19, 3, '2026-01-30', '127-97'),
+(20, 2, 3, '2026-01-30', '99-109'),
+(1, 25, 3, '2026-01-30', '112-93'),
+(30, 29, 3, '2026-01-30', '114-106'),
+(24, 7, 3, '2026-01-30', '126-113'),
+(15, 22, 3, '2026-01-30', '111-142'),
+(4, 25, 3, '2026-01-29', '113-111'),
+(16, 2, 3, '2026-01-29', '107-103'),
+(11, 27, 3, '2026-01-29', '86-104'),
+(6, 13, 3, '2026-01-29', '113-116'),
+(15, 10, 3, '2026-01-29', '109-99'),
+(24, 8, 3, '2026-01-29', '114-96'),
+(17, 18, 3, '2026-01-29', '123-111'),
+(26, 12, 3, '2026-01-29', '121-123'),
+(1, 11, 3, '2026-01-28', '106-117'),
+(7, 22, 3, '2026-01-28', '129-99'),
+(9, 6, 3, '2026-01-28', '113-110'),
+(20, 21, 3, '2026-01-28', '124-140'),
+(5, 3, 3, '2026-01-28', '92-119'),
+(27, 28, 3, '2026-01-28', '99-111'),
+(13, 14, 3, '2026-01-28', '124-133'),
+(29, 12, 3, '2026-01-28', '97-112'),
+(26, 17, 3, '2026-01-28', '105-118'),
+(20, 23, 3, '2026-01-27', '103-115'),
+(4, 10, 3, '2026-01-27', '139-122'),
+(16, 8, 3, '2026-01-27', '107-109'),
+(18, 30, 3, '2026-01-27', '104-95'),
+(24, 2, 3, '2026-01-27', '106-102'),
+(3, 25, 3, '2026-01-27', '103-87'),
+(15, 19, 3, '2026-01-27', '115-111'),
+(6, 22, 3, '2026-01-26', '118-129'),
+(7, 14, 3, '2026-01-26', '114-98'),
+(27, 29, 3, '2026-01-26', '108-99'),
+(12, 4, 3, '2026-01-26', '130-93'),
+(11, 9, 3, '2026-01-26', '132-116'),
+(17, 21, 3, '2026-01-26', '108-83'),
+(1, 19, 3, '2026-01-26', '102-94'),
+(8, 25, 3, '2026-01-25', '139-116'),
+(17, 21, 3, '2026-01-25', '85-111'),
+(24, 13, 3, '2026-01-25', '102-111'),
+(28, 30, 3, '2026-01-25', '95-104'),
+(23, 2, 3, '2026-01-25', '126-89'),
+(18, 5, 3, '2026-01-25', '101-103'),
+(4, 3, 3, '2026-01-24', '109-112'),
+(14, 7, 3, '2026-01-24', '105-119'),
+(12, 15, 3, '2026-01-24', '119-115'),
+(6, 1, 3, '2026-01-24', '114-111'),
+(26, 22, 3, '2026-01-24', '110-116'),
+(20, 13, 3, '2026-01-24', '116-147'),
+(19, 5, 3, '2026-01-23', '98-110'),
+(11, 24, 3, '2026-01-23', '110-103'),
+(7, 25, 3, '2026-01-23', '123-118'),
+(29, 30, 3, '2026-01-23', '127-133'),
+(18, 9, 3, '2026-01-23', '114-117'),
+(8, 27, 3, '2026-01-23', '104-111'),
+(10, 16, 3, '2026-01-23', '100-102'),
+(2, 1, 3, '2026-01-23', '126-130'),
+(23, 22, 3, '2026-01-22', '112-104'),
+(19, 13, 3, '2026-01-22', '127-110'),
+(20, 28, 3, '2026-01-22', '109-126'),
+(14, 12, 3, '2026-01-22', '97-124'),
+(26, 21, 3, '2026-01-22', '123-115'),
+(4, 27, 3, '2026-01-22', '128-122'),
+(15, 16, 3, '2026-01-22', '97-107'),
+(17, 6, 3, '2026-01-22', '115-120'),
+(10, 18, 3, '2026-01-21', '102-122'),
+(30, 8, 3, '2026-01-21', '104-112'),
+(12, 7, 3, '2026-01-21', '87-94'),
+(29, 11, 3, '2026-01-21', '122-124'),
+(1, 9, 3, '2026-01-21', '119-104'),
+(25, 5, 3, '2026-01-21', '109-122'),
+(3, 2, 3, '2026-01-21', '120-66'),
+(21, 5, 3, '2026-01-20', '127-145'),
+(16, 22, 3, '2026-01-20', '107-115'),
+(27, 28, 3, '2026-01-20', '111-106'),
+(20, 17, 3, '2026-01-20', '127-122'),
+(6, 23, 3, '2026-01-20', '138-110'),
+(25, 13, 3, '2026-01-20', '117-130'),
+(4, 24, 3, '2026-01-20', '110-116'),
+(3, 26, 3, '2026-01-19', '97-114'),
+(4, 9, 3, '2026-01-19', '113-104'),
+(7, 18, 3, '2026-01-19', '104-136'),
+(8, 1, 3, '2026-01-19', '104-103'),
+(21, 13, 3, '2026-01-19', '135-112'),
+(28, 20, 3, '2026-01-19', '123-110'),
+(11, 10, 3, '2026-01-19', '110-112'),
+(2, 24, 3, '2026-01-19', '117-126'),
+(15, 23, 3, '2026-01-19', '106-110'),
+(27, 30, 3, '2026-01-18', '119-110'),
+(6, 2, 3, '2026-01-18', '124-102'),
+(16, 12, 3, '2026-01-18', '87-110'),
+(25, 19, 3, '2026-01-18', '110-117'),
+(22, 5, 3, '2026-01-18', '110-93'),
+(19, 22, 3, '2026-01-17', '132-116'),
+(11, 1, 3, '2026-01-17', '106-132'),
+(3, 24, 3, '2026-01-17', '99-106'),
+(13, 18, 3, '2026-01-17', '122-120'),
+(8, 9, 3, '2026-01-17', '121-78'),
+(26, 20, 3, '2026-01-17', '138-120'),
+(21, 12, 3, '2026-01-17', '136-116'),
+(16, 15, 3, '2026-01-17', '121-115'),
+(28, 17, 3, '2026-01-17', '126-123'),
+(2, 6, 3, '2026-01-16', '112-109'),
+(9, 30, 3, '2026-01-16', '127-119'),
+(25, 15, 3, '2026-01-16', '128-115'),
+(27, 17, 3, '2026-01-16', '110-105'),
+(5, 23, 3, '2026-01-16', '117-121'),
+(4, 7, 3, '2026-01-16', '115-117'),
+(21, 3, 3, '2026-01-15', '126-113'),
+(19, 11, 3, '2026-01-15', '117-101'),
+(22, 12, 3, '2026-01-15', '117-135'),
+(26, 20, 3, '2026-01-15', '144-122'),
+(28, 10, 3, '2026-01-15', '119-101'),
+(27, 18, 3, '2026-01-15', '91-111'),
+(13, 1, 3, '2026-01-15', '114-119'),
+(8, 24, 3, '2026-01-15', '108-105'),
+(25, 3, 3, '2026-01-14', '112-101'),
+(23, 15, 3, '2026-01-14', '119-105'),
+(30, 2, 3, '2026-01-14', '116-113'),
+(4, 7, 3, '2026-01-14', '107-133'),
+(6, 20, 3, '2026-01-14', '128-126'),
+(26, 16, 3, '2026-01-14', '109-118'),
+(9, 5, 3, '2026-01-14', '101-115'),
+(27, 6, 3, '2026-01-13', '119-113'),
+(30, 16, 3, '2026-01-13', '116-122'),
+(10, 17, 3, '2026-01-13', '106-139'),
+(22, 11, 3, '2026-01-13', '141-116'),
+(21, 19, 3, '2026-01-13', '119-97'),
+(18, 28, 3, '2026-01-13', '119-98'),
+(13, 24, 3, '2026-01-13', '127-121'),
+(9, 1, 3, '2026-01-12', '98-96'),
+(7, 20, 3, '2026-01-12', '112-123'),
+(26, 2, 3, '2026-01-12', '113-105'),
+(23, 12, 3, '2026-01-12', '117-109'),
+(5, 4, 3, '2026-01-12', '102-115'),
+(25, 22, 3, '2026-01-12', '124-112'),
+(18, 13, 3, '2026-01-11', '124-112'),
+(21, 11, 3, '2026-01-11', '111-124'),
+(25, 27, 3, '2026-01-11', '111-98'),
+(14, 30, 3, '2026-01-11', '128-118'),
+(19, 3, 3, '2026-01-11', '114-123'),
+(5, 4, 3, '2026-01-11', '116-115'),
+(29, 2, 3, '2026-01-11', '103-98'),
+(17, 28, 3, '2026-01-11', '104-103'),
+(24, 15, 3, '2026-01-11', '112-93'),
+(16, 10, 3, '2026-01-11', '108-104'),
+(8, 23, 3, '2026-01-10', '92-98'),
+(6, 26, 3, '2026-01-10', '125-107'),
+(7, 17, 3, '2026-01-10', '146-134'),
+(9, 13, 3, '2026-01-10', '123-99'),
+(20, 12, 3, '2026-01-10', '95-150'),
+(1, 28, 3, '2026-01-10', '95-100'),
+(1, 5, 3, '2026-01-09', '125-117'),
+(15, 30, 3, '2026-01-09', '107-128'),
+(22, 10, 3, '2026-01-09', '101-105'),
+(19, 27, 3, '2026-01-09', '111-105'),
+(16, 11, 3, '2026-01-09', '87-110'),
+(2, 23, 3, '2026-01-09', '105-121'),
+(14, 4, 3, '2026-01-09', '91-103'),
+(24, 3, 3, '2026-01-09', '112-107'),
+(21, 25, 3, '2026-01-09', '137-103'),
+(29, 18, 3, '2026-01-09', '116-117'),
+(17, 7, 3, '2026-01-08', '131-122'),
+(12, 9, 3, '2026-01-08', '112-114'),
+(20, 26, 3, '2026-01-08', '116-114'),
+(29, 24, 3, '2026-01-07', '98-117'),
+(2, 14, 3, '2026-01-07', '103-104'),
+(4, 15, 3, '2026-01-07', '131-110'),
+(28, 22, 3, '2026-01-07', '107-91'),
+(18, 20, 3, '2026-01-07', '129-125'),
+(12, 5, 3, '2026-01-07', '96-97'),
+(3, 23, 3, '2026-01-07', '123-111'),
+(11, 30, 3, '2026-01-07', '117-100'),
+(1, 16, 3, '2026-01-07', '110-114'),
+(21, 10, 3, '2026-01-07', '120-113'),
+(8, 6, 3, '2026-01-07', '108-93'),
+(19, 27, 3, '2026-01-07', '103-102'),
+(9, 7, 3, '2026-01-06', '116-120'),
+(30, 22, 3, '2026-01-06', '103-111'),
+(25, 26, 3, '2026-01-06', '98-100'),
+(29, 28, 3, '2026-01-06', '106-105'),
+(17, 13, 3, '2026-01-06', '122-94'),
+(15, 14, 3, '2026-01-06', '120-112'),
+(19, 20, 3, '2026-01-05', '137-117'),
+(18, 12, 3, '2026-01-05', '97-124'),
+(1, 6, 3, '2026-01-05', '115-101'),
+(5, 11, 3, '2026-01-05', '118-100'),
+(27, 24, 3, '2026-01-05', '100-97'),
+(8, 3, 3, '2026-01-05', '121-90'),
+(4, 16, 3, '2026-01-05', '124-125'),
+(23, 21, 3, '2026-01-05', '103-102'),
+(15, 17, 3, '2026-01-04', '115-141'),
+(25, 10, 3, '2026-01-04', '98-115'),
+(24, 18, 3, '2026-01-04', '108-105'),
+(7, 8, 3, '2026-01-04', '110-114'),
+(14, 9, 3, '2026-01-04', '135-127'),
+(2, 16, 3, '2026-01-04', '127-115'),
+(22, 29, 3, '2026-01-04', '120-114'),
+(13, 30, 3, '2026-01-04', '125-106'),
+(28, 19, 3, '2026-01-03', '110-115'),
+(3, 4, 3, '2026-01-03', '119-130'),
+(6, 12, 3, '2026-01-03', '99-112'),
+(13, 17, 3, '2026-01-03', '115-125'),
+(23, 1, 3, '2026-01-03', '115-146'),
+(21, 20, 3, '2026-01-03', '123-114'),
+(5, 11, 3, '2026-01-03', '134-117'),
+(26, 27, 3, '2026-01-03', '110-104'),
+(15, 2, 3, '2026-01-02', '119-99'),
+(24, 25, 3, '2026-01-02', '129-102'),
+(6, 14, 3, '2026-01-02', '121-114'),
+(10, 12, 3, '2026-01-02', '122-121'),
+(21, 18, 3, '2026-01-02', '94-131'),
+(22, 29, 3, '2026-01-02', '128-121'),
+(3, 11, 3, '2026-01-02', '99-111'),
+(30, 19, 3, '2026-01-02', '109-122'),
+(9, 28, 3, '2026-01-02', '113-123'),
+(7, 16, 3, '2026-01-02', '113-108'),
+(2, 27, 3, '2026-01-01', '96-120'),
+(8, 13, 3, '2026-01-01', '112-118'),
+(26, 4, 3, '2026-01-01', '108-123'),
+(25, 1, 3, '2026-01-01', '106-120'),
+(23, 20, 3, '2026-01-01', '118-101'),
+(18, 19, 3, '2025-12-31', '124-95'),
+(6, 30, 3, '2025-12-31', '134-118'),
+(9, 14, 3, '2025-12-31', '110-112'),
+(11, 17, 3, '2025-12-31', '126-102'),
+(10, 15, 3, '2025-12-31', '113-114'),
+(28, 3, 3, '2025-12-31', '134-132'),
+(7, 24, 3, '2025-12-31', '129-113'),
+(5, 16, 3, '2025-12-31', '103-106'),
+(12, 21, 3, '2025-12-31', '125-132'),
+(23, 25, 3, '2025-12-30', '131-90'),
+(29, 4, 3, '2025-12-30', '136-139'),
+(20, 1, 3, '2025-12-30', '119-129'),
+(22, 8, 3, '2025-12-30', '106-128'),
+(18, 11, 3, '2025-12-29', '140-129'),
+(30, 3, 3, '2025-12-29', '125-130'),
+(28, 7, 3, '2025-12-29', '101-113'),
+(12, 10, 3, '2025-12-29', '113-123'),
+(2, 21, 3, '2025-12-29', '107-120'),
+(13, 16, 3, '2025-12-29', '147-123'),
+(5, 14, 3, '2025-12-29', '107-106'),
+(19, 26, 3, '2025-12-29', '125-122'),
+(6, 17, 3, '2025-12-29', '101-136'),
+(15, 24, 3, '2025-12-29', '101-115'),
+(27, 9, 3, '2025-12-29', '126-119'),
+(22, 25, 3, '2025-12-28', '125-101'),
+(23, 8, 3, '2025-12-28', '112-99'),
+(18, 4, 3, '2025-12-28', '129-104'),
+(5, 21, 3, '2025-12-28', '141-127'),
+(15, 29, 3, '2025-12-28', '116-112'),
+(19, 1, 3, '2025-12-28', '114-108'),
+(11, 3, 3, '2025-12-27', '125-128'),
+(13, 9, 3, '2025-12-27', '142-116'),
+(17, 2, 3, '2025-12-27', '107-123'),
+(25, 26, 3, '2025-12-27', '113-107'),
+(27, 7, 3, '2025-12-27', '117-100'),
+(14, 16, 3, '2025-12-27', '127-126'),
+(28, 20, 3, '2025-12-27', '114-127'),
+(6, 10, 3, '2025-12-27', '103-112'),
+(30, 24, 3, '2025-12-27', '114-123'),
+(11, 13, 3, '2025-12-26', '111-126'),
+(14, 12, 3, '2025-12-26', '105-120'),
+(15, 5, 3, '2025-12-26', '138-117'),
+(9, 1, 3, '2025-12-26', '122-140'),
+(30, 24, 3, '2025-12-26', '108-115'),
+(19, 23, 3, '2025-12-26', '103-119'),
+(6, 4, 3, '2025-12-26', '109-102'),
+(20, 8, 3, '2025-12-26', '131-129'),
+(29, 10, 3, '2025-12-26', '125-104'),
+(22, 27, 3, '2025-12-25', '96-119'),
+(21, 26, 3, '2025-12-25', '126-116'),
+(18, 28, 3, '2025-12-25', '102-117'),
+(16, 17, 3, '2025-12-25', '142-138'),
+(3, 7, 3, '2025-12-25', '126-124'),
+(24, 22, 3, '2025-12-23', '132-108'),
+(19, 14, 3, '2025-12-23', '106-110'),
+(28, 18, 3, '2025-12-23', '130-110'),
+(26, 16, 3, '2025-12-23', '131-130'),
+(13, 5, 3, '2025-12-23', '91-112'),
+(4, 2, 3, '2025-12-23', '106-114'),
+(11, 6, 3, '2025-12-23', '123-126'),
+(17, 3, 3, '2025-12-23', '115-104'),
+(9, 10, 3, '2025-12-23', '94-111'),
+(25, 8, 3, '2025-12-23', '127-136'),
+(12, 15, 3, '2025-12-23', '126-109'),
+(20, 29, 3, '2025-12-23', '128-137'),
+(23, 27, 3, '2025-12-23', '128-108'),
+(7, 30, 3, '2025-12-23', '141-118'),
+(18, 29, 3, '2025-12-22', '119-103'),
+(19, 8, 3, '2025-12-22', '102-110'),
+(7, 12, 3, '2025-12-22', '139-132'),
+(16, 20, 3, '2025-12-22', '135-112'),
+(21, 14, 3, '2025-12-22', '120-97'),
+(1, 9, 3, '2025-12-22', '103-95'),
+(30, 26, 3, '2025-12-22', '119-113'),
+(11, 6, 3, '2025-12-21', '150-152'),
+(17, 10, 3, '2025-12-21', '103-100'),
+(25, 27, 3, '2025-12-21', '125-124'),
+(2, 5, 3, '2025-12-21', '96-81'),
+(3, 13, 3, '2025-12-21', '132-125'),
+(15, 28, 3, '2025-12-21', '113-124'),
+(5, 1, 3, '2025-12-20', '96-112'),
+(23, 22, 3, '2025-12-20', '103-88'),
+(8, 12, 3, '2025-12-20', '112-86'),
+(4, 26, 3, '2025-12-20', '121-114'),
+(29, 15, 3, '2025-12-20', '122-130'),
+(16, 27, 3, '2025-12-20', '101-115'),
+(20, 14, 3, '2025-12-20', '127-128'),
+(25, 19, 3, '2025-12-20', '93-98'),
+(30, 9, 3, '2025-12-20', '128-109'),
+(21, 24, 3, '2025-12-20', '119-116'),
+(1, 13, 3, '2025-12-19', '129-116'),
+(17, 18, 3, '2025-12-19', '112-107'),
+(3, 4, 3, '2025-12-19', '107-116'),
+(11, 28, 3, '2025-12-19', '98-126'),
+(7, 6, 3, '2025-12-19', '125-136'),
+(19, 25, 3, '2025-12-18', '134-133'),
+(9, 3, 3, '2025-12-18', '113-114'),
+(28, 15, 3, '2025-12-18', '119-94'),
+(24, 21, 3, '2025-12-18', '99-98'),
+(16, 14, 3, '2025-12-18', '126-115'),
+(12, 11, 3, '2025-12-18', '133-126'),
+(26, 8, 3, '2025-12-18', '116-114'),
+(10, 5, 3, '2025-12-18', '105-111'),
+(30, 27, 3, '2025-12-18', '133-128'),
+(20, 22, 3, '2025-12-18', '135-143'),
+(2, 13, 3, '2025-12-18', '95-106'),
+(18, 23, 3, '2025-12-18', '122-101'),
+(6, 7, 3, '2025-12-17', '127-111'),
+(17, 29, 3, '2025-12-17', '110-116'),
+(16, 27, 3, '2025-12-15', '128-125'),
+(23, 29, 3, '2025-12-15', '103-121'),
+(13, 5, 3, '2025-12-15', '96-106'),
+(20, 26, 3, '2025-12-15', '140-133'),
+(1, 8, 3, '2025-12-15', '105-112'),
+(2, 10, 3, '2025-12-14', '127-82'),
+(9, 15, 3, '2025-12-14', '89-108'),
+(19, 21, 3, '2025-12-14', '136-131'),
+(11, 4, 3, '2025-12-14', '120-117'),
+(7, 12, 3, '2025-12-14', '111-119'),
+(6, 30, 3, '2025-12-14', '104-114'),
+(17, 25, 3, '2025-12-14', '117-103'),
+(24, 22, 3, '2025-12-14', '114-116'),
+(21, 17, 3, '2025-12-12', '120-127'),
+(4, 9, 3, '2025-12-12', '115-105'),
+(15, 7, 3, '2025-12-12', '126-130'),
+(8, 11, 3, '2025-12-12', '142-115'),
+(29, 20, 3, '2025-12-12', '126-130'),
+(12, 6, 3, '2025-12-12', '126-129'),
+(26, 2, 3, '2025-12-12', '119-111'),
+(27, 23, 3, '2025-12-11', '115-113'),
+(30, 19, 3, '2025-12-11', '143-120'),
+(25, 16, 3, '2025-12-11', '105-136'),
+(10, 1, 3, '2025-12-11', '116-101'),
+(22, 28, 3, '2025-12-10', '119-132'),
+(18, 24, 3, '2025-12-10', '138-89'),
+(5, 3, 3, '2025-12-09', '101-117'),
+(14, 13, 3, '2025-12-09', '117-108'),
+(9, 25, 3, '2025-12-08', '116-105'),
+(17, 24, 3, '2025-12-08', '105-108'),
+(30, 28, 3, '2025-12-08', '132-135'),
+(5, 1, 3, '2025-12-07', '113-121'),
+(6, 21, 3, '2025-12-07', '91-123'),
+(12, 16, 3, '2025-12-07', '106-115'),
+(20, 18, 3, '2025-12-07', '101-131'),
+(29, 19, 3, '2025-12-07', '119-96'),
+(4, 22, 3, '2025-12-07', '108-112'),
+(3, 14, 3, '2025-12-07', '106-100'),
+(2, 30, 3, '2025-12-06', '119-101'),
+(26, 27, 3, '2025-12-06', '122-109'),
+(15, 11, 3, '2025-12-06', '116-131'),
+(13, 25, 3, '2025-12-06', '111-127'),
+(7, 21, 3, '2025-12-06', '94-99'),
+(17, 23, 3, '2025-12-06', '109-106'),
+(8, 10, 3, '2025-12-06', '124-112'),
+(6, 9, 3, '2025-12-05', '105-120'),
+(14, 13, 3, '2025-12-05', '106-105'),
+(3, 20, 3, '2025-12-05', '146-112'),
+(27, 24, 3, '2025-12-05', '117-98'),
+(29, 23, 3, '2025-12-05', '107-98'),
+(10, 4, 3, '2025-12-05', '101-116'),
+(1, 22, 3, '2025-12-05', '126-105'),
+(7, 28, 3, '2025-12-05', '130-117'),
+(18, 26, 3, '2025-12-05', '132-111'),
+(5, 12, 3, '2025-12-05', '86-111'),
+(11, 16, 3, '2025-12-05', '133-134'),
+(8, 19, 3, '2025-12-05', '122-116'),
+(2, 20, 3, '2025-12-04', '110-123'),
+(15, 1, 3, '2025-12-04', '101-146'),
+(4, 21, 3, '2025-12-04', '99-98'),
+(5, 22, 3, '2025-12-04', '120-123'),
+(30, 17, 3, '2025-12-04', '116-125'),
+(14, 28, 3, '2025-12-03', '112-114'),
+(11, 23, 3, '2025-12-03', '92-115'),
+(9, 16, 3, '2025-12-03', '120-135'),
+(7, 19, 3, '2025-12-03', '110-122'),
+(3, 12, 3, '2025-12-03', '119-104'),
+(10, 8, 3, '2025-12-03', '113-109'),
+(27, 25, 3, '2025-12-03', '121-95'),
+(26, 13, 3, '2025-12-03', '118-108'),
+(6, 2, 3, '2025-12-03', '103-113'),
+(30, 17, 3, '2025-12-02', '142-149'),
+(4, 15, 3, '2025-12-02', '121-102'),
+(28, 29, 3, '2025-12-02', '126-119'),
+(21, 18, 3, '2025-12-02', '112-124'),
+(1, 3, 3, '2025-12-02', '123-117'),
+(5, 19, 3, '2025-12-02', '121-118'),
+(14, 6, 3, '2025-12-01', '125-120'),
+(2, 12, 3, '2025-12-01', '116-103'),
+(22, 24, 3, '2025-12-01', '108-125'),
+(15, 10, 3, '2025-12-01', '129-126'),
+(20, 27, 3, '2025-12-01', '133-125'),
+(16, 26, 3, '2025-12-01', '121-131'),
+(13, 23, 3, '2025-12-01', '140-123'),
+(8, 11, 3, '2025-12-01', '99-98'),
+(9, 7, 3, '2025-12-01', '119-135'),
+(3, 5, 3, '2025-11-30', '116-94'),
+(4, 11, 3, '2025-11-30', '134-142'),
+(25, 29, 3, '2025-11-30', '107-115'),
+(22, 30, 3, '2025-11-30', '133-121'),
+(20, 27, 3, '2025-11-30', '101-129'),
+(19, 18, 3, '2025-11-30', '115-123'),
+(17, 28, 3, '2025-11-30', '125-112'),
+(7, 1, 3, '2025-11-30', '115-117'),
+(21, 30, 3, '2025-11-29', '104-96'),
+(24, 16, 3, '2025-11-29', '112-130'),
+(13, 8, 3, '2025-11-29', '135-138'),
+(10, 2, 3, '2025-11-29', '116-99'),
+(12, 5, 3, '2025-11-29', '118-111'),
+(9, 6, 3, '2025-11-29', '103-101'),
+(17, 1, 3, '2025-11-29', '119-115'),
+(23, 26, 3, '2025-11-29', '110-114'),
+(11, 7, 3, '2025-11-28', '130-123'),
+(20, 25, 3, '2025-11-28', '128-119'),
+(23, 29, 3, '2025-11-28', '107-112'),
+(16, 28, 3, '2025-11-28', '136-139'),
+(22, 26, 3, '2025-11-28', '129-119'),
+(18, 24, 3, '2025-11-28', '123-119'),
+(12, 6, 3, '2025-11-28', '123-116'),
+(3, 10, 3, '2025-11-28', '118-109'),
+(8, 14, 3, '2025-11-28', '109-112'),
+(2, 4, 3, '2025-11-28', '103-115'),
+(9, 15, 3, '2025-11-28', '119-86'),
+(1, 8, 3, '2025-11-26', '117-114'),
+(30, 29, 3, '2025-11-26', '128-133'),
+(25, 24, 3, '2025-11-26', '100-112'),
+(21, 27, 3, '2025-11-26', '100-104'),
+(5, 9, 3, '2025-11-26', '97-95'),
+(12, 3, 3, '2025-11-26', '101-129'),
+(19, 28, 3, '2025-11-26', '102-115'),
+(13, 10, 3, '2025-11-26', '106-103'),
+(18, 17, 3, '2025-11-26', '113-105'),
+(22, 23, 3, '2025-11-25', '135-118'),
+(4, 14, 3, '2025-11-25', '103-144'),
+(15, 11, 3, '2025-11-25', '132-113'),
+(5, 7, 3, '2025-11-24', '110-99'),
+(10, 19, 3, '2025-11-24', '103-115'),
+(30, 6, 3, '2025-11-24', '143-130'),
+(13, 26, 3, '2025-11-24', '106-102'),
+(24, 27, 3, '2025-11-24', '92-114'),
+(29, 16, 3, '2025-11-24', '115-125'),
+(2, 3, 3, '2025-11-24', '100-113'),
+(21, 20, 3, '2025-11-24', '134-117'),
+(9, 8, 3, '2025-11-24', '117-122'),
+(25, 17, 3, '2025-11-24', '117-112'),
+(4, 13, 3, '2025-11-23', '117-127'),
+(24, 28, 3, '2025-11-23', '111-102'),
+(5, 2, 3, '2025-11-23', '119-109'),
+(20, 22, 3, '2025-11-23', '106-108'),
+(18, 19, 3, '2025-11-23', '122-95'),
+(11, 12, 3, '2025-11-23', '113-110'),
+(1, 14, 3, '2025-11-23', '138-129'),
+(7, 23, 3, '2025-11-23', '120-105'),
+(12, 23, 3, '2025-11-22', '116-131'),
+(6, 15, 3, '2025-11-22', '121-120'),
+(30, 11, 3, '2025-11-22', '98-115'),
+(26, 29, 3, '2025-11-22', '96-102'),
+(10, 8, 3, '2025-11-22', '116-129'),
+(14, 3, 3, '2025-11-22', '133-121'),
+(16, 25, 3, '2025-11-22', '123-128'),
+(21, 19, 3, '2025-11-21', '123-127'),
+(1, 2, 3, '2025-11-21', '105-113'),
+(5, 15, 3, '2025-11-21', '140-110'),
+(20, 18, 3, '2025-11-21', '112-144'),
+(26, 30, 3, '2025-11-21', '118-115'),
+(7, 9, 3, '2025-11-21', '120-109'),
+(24, 17, 3, '2025-11-21', '114-113'),
+(27, 16, 3, '2025-11-21', '109-112'),
+(6, 13, 3, '2025-11-21', '107-143'),
+(29, 25, 3, '2025-11-20', '137-96'),
+(10, 4, 3, '2025-11-20', '114-123'),
+(14, 23, 3, '2025-11-20', '129-101'),
+(28, 11, 3, '2025-11-20', '135-126'),
+(9, 12, 3, '2025-11-19', '127-118'),
+(13, 21, 3, '2025-11-19', '110-96'),
+(30, 16, 3, '2025-11-19', '118-125'),
+(7, 27, 3, '2025-11-19', '104-114'),
+(26, 3, 3, '2025-11-19', '111-113'),
+(4, 5, 3, '2025-11-19', '112-121'),
+(17, 15, 3, '2025-11-19', '120-109'),
+(18, 25, 3, '2025-11-19', '113-99'),
+(19, 6, 3, '2025-11-19', '121-122'),
+(14, 21, 3, '2025-11-18', '121-113'),
+(11, 8, 3, '2025-11-18', '112-120'),
+(2, 1, 3, '2025-11-18', '99-113'),
+(28, 29, 3, '2025-11-18', '111-101'),
+(19, 24, 3, '2025-11-18', '110-127'),
+(22, 20, 3, '2025-11-18', '140-126'),
+(7, 10, 3, '2025-11-17', '118-106'),
+(5, 12, 3, '2025-11-17', '110-108'),
+(30, 18, 3, '2025-11-17', '109-126'),
+(16, 6, 3, '2025-11-17', '127-130'),
+(17, 26, 3, '2025-11-17', '120-96'),
+(13, 3, 3, '2025-11-17', '115-113'),
+(4, 23, 3, '2025-11-17', '110-108'),
+(8, 9, 3, '2025-11-17', '127-112'),
+(15, 2, 3, '2025-11-16', '106-129'),
+(28, 25, 3, '2025-11-16', '123-110'),
+(1, 23, 3, '2025-11-16', '121-118'),
+(20, 6, 3, '2025-11-16', '150-147'),
+(24, 11, 3, '2025-11-16', '122-124'),
+(26, 19, 3, '2025-11-16', '138-133'),
+(27, 14, 3, '2025-11-16', '117-113'),
+(30, 21, 3, '2025-11-16', '106-124'),
+(17, 16, 3, '2025-11-15', '112-123'),
+(12, 18, 3, '2025-11-15', '96-109'),
+(9, 5, 3, '2025-11-15', '111-129'),
+(7, 29, 3, '2025-11-15', '108-100'),
+(10, 22, 3, '2025-11-15', '95-119'),
+(14, 2, 3, '2025-11-14', '105-98'),
+(26, 23, 3, '2025-11-14', '127-133'),
+(17, 25, 3, '2025-11-14', '124-110'),
+(3, 13, 3, '2025-11-14', '140-132'),
+(27, 19, 3, '2025-11-14', '140-116'),
+(10, 12, 3, '2025-11-14', '147-134'),
+(28, 21, 3, '2025-11-14', '108-109'),
+(30, 22, 3, '2025-11-14', '104-118'),
+(8, 4, 3, '2025-11-14', '114-105'),
+(7, 5, 3, '2025-11-13', '113-126'),
+(24, 9, 3, '2025-11-13', '133-98'),
+(20, 11, 3, '2025-11-13', '122-132'),
+(3, 14, 3, '2025-11-12', '107-124'),
+(30, 19, 3, '2025-11-12', '117-125'),
+(28, 21, 3, '2025-11-12', '120-125'),
+(12, 10, 3, '2025-11-12', '111-100'),
+(18, 22, 3, '2025-11-12', '121-92'),
+(13, 7, 3, '2025-11-12', '116-130'),
+(23, 16, 3, '2025-11-12', '116-130'),
+(25, 11, 3, '2025-11-12', '100-133'),
+(1, 29, 3, '2025-11-12', '131-95'),
+(27, 15, 3, '2025-11-12', '135-112'),
+(8, 6, 3, '2025-11-12', '124-113'),
+(26, 24, 3, '2025-11-12', '114-123'),
+(3, 29, 3, '2025-11-11', '133-120'),
+(4, 1, 3, '2025-11-11', '102-100'),
+(18, 21, 3, '2025-11-11', '126-102'),
+(20, 9, 3, '2025-11-11', '152-128'),
+(25, 16, 3, '2025-11-11', '108-122'),
+(2, 5, 3, '2025-11-11', '109-119'),
+(12, 22, 3, '2025-11-10', '111-121'),
+(24, 30, 3, '2025-11-10', '121-98'),
+(6, 28, 3, '2025-11-10', '117-121'),
+(13, 7, 3, '2025-11-10', '140-138'),
+(8, 15, 3, '2025-11-10', '137-135'),
+(26, 10, 3, '2025-11-10', '114-116'),
+(20, 17, 3, '2025-11-10', '113-120'),
+(14, 19, 3, '2025-11-10', '115-112'),
+(23, 11, 3, '2025-11-10', '102-105'),
+(3, 2, 3, '2025-11-09', '134-98'),
+(10, 27, 3, '2025-11-09', '115-122'),
+(25, 17, 3, '2025-11-09', '117-144'),
+(21, 9, 3, '2025-11-09', '114-83'),
+(14, 1, 3, '2025-11-09', '107-111'),
+(29, 18, 3, '2025-11-09', '100-114'),
+(4, 8, 3, '2025-11-09', '108-111'),
+(15, 26, 3, '2025-11-08', '105-111'),
+(16, 9, 3, '2025-11-08', '117-100'),
+(28, 30, 3, '2025-11-08', '126-119'),
+(11, 22, 3, '2025-11-08', '122-102'),
+(13, 19, 3, '2025-11-08', '136-131'),
+(23, 24, 3, '2025-11-08', '103-114'),
+(4, 5, 3, '2025-11-08', '130-120'),
+(7, 6, 3, '2025-11-08', '128-122'),
+(11, 5, 3, '2025-11-07', '97-109'),
+(15, 7, 3, '2025-11-07', '115-148'),
+(28, 27, 3, '2025-11-07', '121-110'),
+(25, 18, 3, '2025-11-07', '101-132'),
+(2, 8, 3, '2025-11-07', '107-125'),
+(14, 1, 3, '2025-11-07', '123-110'),
+(29, 26, 3, '2025-11-07', '118-104'),
+(17, 20, 3, '2025-11-07', '137-97'),
+(13, 12, 3, '2025-11-07', '126-108'),
+(10, 6, 3, '2025-11-07', '126-110'),
+(16, 21, 3, '2025-11-07', '129-104'),
+(24, 23, 3, '2025-11-06', '115-102'),
+(16, 13, 3, '2025-11-05', '122-112'),
+(22, 28, 3, '2025-11-05', '118-116'),
+(1, 15, 3, '2025-11-05', '136-107'),
+(26, 30, 3, '2025-11-05', '99-101'),
+(29, 27, 3, '2025-11-05', '109-124'),
+(7, 4, 3, '2025-11-05', '132-121'),
+(9, 2, 3, '2025-11-05', '103-112'),
+(8, 20, 3, '2025-11-05', '114-103'),
+(25, 21, 3, '2025-11-05', '121-116'),
+(19, 18, 3, '2025-11-05', '121-119'),
+(3, 17, 3, '2025-11-05', '137-114'),
+(23, 18, 3, '2025-11-04', '107-126'),
+(6, 4, 3, '2025-11-04', '113-111'),
+(5, 10, 3, '2025-11-04', '128-100'),
+(11, 14, 3, '2025-11-04', '127-112'),
+(21, 24, 3, '2025-11-04', '118-107'),
+(30, 12, 3, '2025-11-04', '116-112'),
+(2, 17, 3, '2025-11-03', '109-125'),
+(23, 13, 3, '2025-11-03', '119-120'),
+(9, 10, 3, '2025-11-03', '115-117'),
+(1, 20, 3, '2025-11-03', '103-105'),
+(16, 25, 3, '2025-11-03', '130-124'),
+(27, 26, 3, '2025-11-03', '110-102'),
+(19, 22, 3, '2025-11-03', '115-123'),
+(29, 8, 3, '2025-11-03', '106-114'),
+(3, 15, 3, '2025-11-03', '119-102'),
+(22, 13, 3, '2025-11-02', '130-120'),
+(18, 30, 3, '2025-11-02', '137-106'),
+(12, 20, 3, '2025-11-02', '126-103'),
+(24, 28, 3, '2025-11-02', '130-118'),
+(2, 4, 3, '2025-11-02', '105-129'),
+(7, 11, 3, '2025-11-02', '117-109'),
+(3, 6, 3, '2025-11-02', '128-116'),
+(5, 29, 3, '2025-11-02', '117-104'),
+(10, 25, 3, '2025-11-01', '133-135'),
+(15, 14, 3, '2025-11-01', '94-125'),
+(12, 17, 3, '2025-11-01', '105-122'),
+(9, 21, 3, '2025-11-01', '114-109'),
+(1, 27, 3, '2025-11-01', '101-128'),
+(19, 16, 3, '2025-10-31', '109-107'),
+(29, 22, 3, '2025-10-31', '112-117'),
+(24, 20, 3, '2025-10-31', '118-96'),
+(4, 1, 3, '2025-10-31', '108-109'),
+(9, 11, 3, '2025-10-31', '108-128'),
+(6, 3, 3, '2025-10-31', '135-125'),
+(7, 5, 3, '2025-10-31', '101-112'),
+(23, 30, 3, '2025-10-31', '126-124'),
+(28, 13, 3, '2025-10-30', '107-101'),
+(12, 14, 3, '2025-10-30', '107-123'),
+(18, 15, 3, '2025-10-30', '127-108'),
+(10, 21, 3, '2025-10-30', '120-110'),
+(17, 22, 3, '2025-10-29', '115-116'),
+(2, 11, 3, '2025-10-29', '112-117'),
+(20, 19, 3, '2025-10-29', '134-136'),
+(8, 14, 3, '2025-10-29', '135-116'),
+(5, 27, 3, '2025-10-29', '121-139'),
+(6, 25, 3, '2025-10-29', '126-113'),
+(26, 9, 3, '2025-10-29', '107-105'),
+(24, 29, 3, '2025-10-29', '113-114'),
+(1, 7, 3, '2025-10-29', '125-105'),
+(16, 30, 3, '2025-10-29', '122-88'),
+(21, 23, 3, '2025-10-28', '98-79'),
+(15, 4, 3, '2025-10-28', '134-139'),
+(18, 25, 3, '2025-10-28', '107-101'),
+(13, 12, 3, '2025-10-28', '144-117'),
+(10, 3, 3, '2025-10-28', '121-111'),
+(26, 18, 3, '2025-10-27', '94-101'),
+(17, 16, 3, '2025-10-27', '114-127'),
+(4, 14, 3, '2025-10-27', '136-124'),
+(28, 5, 3, '2025-10-27', '121-103'),
+(21, 29, 3, '2025-10-27', '131-118'),
+(22, 19, 3, '2025-10-27', '108-122'),
+(8, 7, 3, '2025-10-27', '95-116'),
+(6, 11, 3, '2025-10-27', '128-123'),
+(20, 24, 3, '2025-10-27', '138-134'),
+(30, 1, 3, '2025-10-27', '90-122'),
+(27, 2, 3, '2025-10-27', '137-109'),
+(25, 22, 3, '2025-10-26', '120-127'),
+(7, 10, 3, '2025-10-26', '118-113'),
+(23, 19, 3, '2025-10-26', '114-107'),
+(8, 1, 3, '2025-10-26', '119-113'),
+(13, 3, 3, '2025-10-26', '115-107'),
+(26, 5, 3, '2025-10-26', '139-129'),
+(15, 12, 3, '2025-10-26', '113-139'),
+(28, 2, 3, '2025-10-26', '118-107'),
+(17, 9, 3, '2025-10-26', '114-110'),
+(29, 9, 3, '2025-10-25', '128-103'),
+(11, 18, 3, '2025-10-25', '100-117'),
+(16, 24, 3, '2025-10-25', '133-111'),
+(14, 6, 3, '2025-10-25', '98-110'),
+(4, 12, 3, '2025-10-25', '125-121'),
+(14, 11, 3, '2025-10-24', '107-111'),
+(22, 17, 3, '2025-10-24', '128-110'),
+(23, 24, 3, '2025-10-24', '129-102'),
+(26, 15, 3, '2025-10-24', '107-117'),
+(29, 13, 3, '2025-10-24', '114-146'),
+(3, 1, 3, '2025-10-24', '105-95'),
+(27, 8, 3, '2025-10-24', '111-115'),
+(2, 7, 3, '2025-10-24', '124-131'),
+(5, 10, 3, '2025-10-24', '116-122'),
+(25, 20, 3, '2025-10-24', '105-104'),
+(19, 21, 3, '2025-10-24', '139-119'),
+(30, 28, 3, '2025-10-24', '116-120'),
+(21, 16, 3, '2025-10-23', '137-131'),
+(9, 18, 3, '2025-10-23', '135-141'),
+(24, 25, 3, '2025-10-22', '120-116'),
+(1, 4, 3, '2025-10-22', '116-117'),
+(11, 5, 3, '2025-10-22', '118-138'),
+(19, 17, 3, '2025-10-22', '114-118'),
+(12, 2, 3, '2025-10-22', '136-117'),
+(26, 28, 3, '2025-10-22', '92-125'),
+(10, 15, 3, '2025-10-22', '133-120'),
+(29, 30, 3, '2025-10-22', '128-122'),
+(3, 7, 3, '2025-10-22', '119-111'),
+(6, 8, 3, '2025-10-22', '115-111'),
+(20, 23, 3, '2025-10-22', '129-108'),
+(14, 13, 3, '2025-10-22', '125-121'),
+(18, 27, 3, '2025-10-21', '125-124'),
+(22, 21, 3, '2025-10-21', '109-119'),
+(3, 12, 3, '2025-10-17', '113-108'),
+(4, 17, 3, '2025-10-17', '126-110'),
+(22, 25, 3, '2025-10-17', '116-117'),
+(28, 9, 3, '2025-10-17', '133-104'),
+(18, 16, 3, '2025-10-17', '94-91'),
+(5, 2, 3, '2025-10-17', '119-114'),
+(21, 23, 3, '2025-10-17', '103-106'),
+(13, 29, 3, '2025-10-17', '125-141'),
+(14, 30, 3, '2025-10-16', '132-125'),
+(8, 15, 3, '2025-10-16', '119-98'),
+(6, 17, 3, '2025-10-16', '126-120'),
+(11, 27, 3, '2025-10-16', '115-133'),
+(20, 19, 3, '2025-10-16', '132-129'),
+(1, 5, 3, '2025-10-15', '110-108'),
+(12, 29, 3, '2025-10-15', '145-116'),
+(22, 26, 3, '2025-10-15', '94-121'),
+(25, 23, 3, '2025-10-15', '91-109'),
+(24, 22, 3, '2025-10-14', '113-104'),
+(10, 18, 3, '2025-10-14', '112-116'),
+(19, 21, 3, '2025-10-14', '111-118'),
+(30, 27, 3, '2025-10-14', '128-130'),
+(7, 8, 3, '2025-10-14', '118-100'),
+(16, 6, 3, '2025-10-14', '124-117'),
+(20, 26, 3, '2025-10-13', '101-114'),
+(9, 28, 3, '2025-10-13', '108-124'),
+(3, 15, 3, '2025-10-13', '103-120'),
+(11, 13, 3, '2025-10-13', '119-118'),
+(22, 21, 3, '2025-10-12', '126-116'),
+(23, 16, 3, '2025-10-12', '94-102'),
+(6, 10, 3, '2025-10-12', '121-127'),
+(14, 13, 3, '2025-10-12', '120-104'),
+(1, 7, 3, '2025-10-12', '138-107'),
+(15, 5, 3, '2025-10-12', '112-113'),
+(29, 11, 3, '2025-10-11', '116-122'),
+(26, 12, 3, '2025-10-11', '116-120'),
+(9, 18, 3, '2025-10-11', '116-101'),
+(5, 1, 3, '2025-10-10', '107-105'),
+(4, 14, 3, '2025-10-10', '98-128'),
+(19, 25, 3, '2025-10-10', '124-123'),
+(28, 20, 3, '2025-10-10', '134-130'),
+(18, 12, 3, '2025-10-09', '122-116'),
+(3, 17, 3, '2025-10-09', '100-95'),
+(6, 7, 3, '2025-10-09', '119-112'),
+(10, 8, 3, '2025-10-09', '117-111'),
+(29, 1, 3, '2025-10-08', '103-121'),
+(21, 19, 3, '2025-10-08', '129-123'),
+(27, 20, 3, '2025-10-08', '140-127'),
+(25, 5, 3, '2025-10-08', '122-130'),
+(13, 28, 3, '2025-10-08', '107-112'),
+(17, 9, 3, '2025-10-07', '134-135'),
+(7, 6, 3, '2025-10-07', '117-118'),
+(13, 10, 3, '2025-10-06', '93-103'),
+(26, 18, 3, '2025-10-06', '106-89'),
+(27, 11, 3, '2025-10-06', '122-113'),
+(5, 16, 3, '2025-10-06', '108-112'),
+(29, 8, 3, '2025-10-06', '112-128'),
+(21, 22, 3, '2025-10-05', '111-103'),
+(12, 18, 3, '2025-10-05', '114-135'),
+(16, 17, 3, '2025-10-04', '116-126'),
+(13, 14, 3, '2025-10-04', '118-126'),
+(22, 24, 3, '2025-10-03', '81-103');
