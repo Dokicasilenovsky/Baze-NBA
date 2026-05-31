@@ -561,7 +561,7 @@ INSERT INTO Player_Team (player_id,team_id,season_id,transfer_year,jersey_number
 (527, 30, 1, 2023, 24),
 (528, 30, 1, 2025, 26),
 (529, 30, 1, 2024, 31),
-(530, 30, 1, 2025, 33),
+(530, 30, 1, 2025, 33);
 
 
 SELECT * FROM Player_Team;
