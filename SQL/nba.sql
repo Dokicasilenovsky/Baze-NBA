@@ -15,7 +15,8 @@ CREATE TABLE team (
     id SERIAL PRIMARY KEY,
     name VARCHAR(50),
     stadion VARCHAR(50),
-    city VARCHAR(50)
+    city VARCHAR(50),
+	conference VARCHAR(20)
 );
 
 CREATE TABLE player (
@@ -46,7 +47,9 @@ CREATE TABLE matches (
     away_team_id INT REFERENCES team(id),
     season_id INT REFERENCES season(id),
     date DATE,
-    result VARCHAR(20)
+    result VARCHAR(20),
+	game_type VARCHAR(20)
+
 );
 
 CREATE TABLE player_game (
@@ -57,21 +60,16 @@ CREATE TABLE player_game (
 
 CREATE TABLE player_stats (
     id SERIAL PRIMARY KEY,
-    player_game_id INT REFERENCES player_game(id),
-    blocks INT,
-    points INT,
-    assists INT,
-    rebounds INT,
-    fouls INT,
+    player_id INT REFERENCES player(id),
     avg_points NUMERIC(5,2),
     avg_assists NUMERIC(5,2),
     avg_rebounds NUMERIC(5,2),
     avg_fouls NUMERIC(5,2),
     avg_blocks NUMERIC(5,2),
-    games_played INT,
-    free_throw_points INT,
-    two_point INT,
-    three_point INT
+    games_played NUMERIC(5,2),
+    free_throw_pct NUMERIC(5,2),
+    two_point_pct NUMERIC(5,2),
+    three_point_pct NUMERIC(5,2)
 );
 
 INSERT INTO season (year) VALUES
