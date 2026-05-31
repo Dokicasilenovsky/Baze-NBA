@@ -1,14 +1,9 @@
 from nba_api.stats.endpoints import leaguegamefinder
 
-# =========================
-# CONFIG
-# =========================
-SEASON = "2025-26"
-SEASON_ID_DB = 3  # tvoja 2026 sezona
 
-# =========================
-# TEAM MAP (tvoj DB)
-# =========================
+SEASON = "2025-26"
+SEASON_ID_DB = 3
+
 TEAM_MAP = {
     "Boston Celtics": 1,
     "Brooklyn Nets": 2,
@@ -47,18 +42,14 @@ TEAM_MAP = {
     "New Orleans Pelicans": 30
 }
 
-# =========================
-# SAFE TEAM LOOKUP
-# =========================
+# SAFE LOOKUP
 def get_team_id(name):
     if name in TEAM_MAP:
         return TEAM_MAP[name]
-    print("❌ Missing team:", name)
+    print("Missing team:", name)
     return None
 
-# =========================
-# FETCH DATA (FIXED)
-# =========================
+# FETCH DATA
 gamefinder = leaguegamefinder.LeagueGameFinder(
     season_nullable=SEASON,
     league_id_nullable="00"
@@ -66,12 +57,7 @@ gamefinder = leaguegamefinder.LeagueGameFinder(
 
 df = gamefinder.get_data_frames()[0]
 
-# 🚨 IMPORTANT: NO SEASON_ID FILTER (to je bio bug)
-# df = df[df["SEASON_ID"] == "22025"]  ❌ REMOVED
-
-# =========================
 # BUILD MATCHES
-# =========================
 matches = {}
 
 for _, row in df.iterrows():
@@ -97,10 +83,8 @@ for _, row in df.iterrows():
         matches[gid]["away_team"] = team_name
         matches[gid]["away_score"] = pts
 
-# =========================
-# GENERATE SQL
-# =========================
-sqls = []
+# BULK INSERT GENERATION (FIXED)
+values = []
 seen = set()
 
 for gid, m in matches.items():
@@ -119,15 +103,22 @@ for gid, m in matches.items():
 
     result = f"{m['home_score']}-{m['away_score']}"
 
-    sqls.append(f"""
+    values.append(
+        f"({home_id}, {away_id}, {SEASON_ID_DB}, '{m['date']}', '{result}')"
+    )
+
+values_str = ",\n".join(values)
+
+sql = f"""
 INSERT INTO matches (home_team_id, away_team_id, season_id, date, result)
-VALUES ({home_id}, {away_id}, {SEASON_ID_DB}, '{m['date']}', '{result}');
-""".strip())
+VALUES
+{values_str};
+""".strip()
 
-# =========================
-# SAVE FILE
-# =========================
-with open("matches_2025_26.sql", "w") as f:
-    f.write("\n\n".join(sqls))
+output_file = "matches_2025_26.sql"
 
-print(f"✅ Done! Generated {len(sqls)} matches for {SEASON}")
+with open(output_file, "w") as f:
+    f.write(sql)
+
+print(f"Done! Generated {len(values)} matches for {SEASON}")
+print(f"Saved: {output_file}")
